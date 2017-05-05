@@ -1,0 +1,33 @@
+getwd()
+leave = read.csv("Leave_data.csv")
+table(leave$Application.Status)
+str(leave)
+leave = subset(leave, leave$Application.Status != "Pending")
+str(leave)
+table(leave$Type.of.Leave)
+leave$Application.Status = as.factor(as.character(leave$Application.Status))
+library(rpart)
+model_rpart = rpart(Application.Status~Type.of.Leave+Department.Team+Position.in.team, data = leave)
+pred = predict(model_rpart, type = "class")
+table(leave$Application.Status, pred)
+
+library(caret)
+library(e1071)
+fitcontrol = trainControl(method = "cv", number = 10)
+grid = expand.grid(.cp = seq(0.001,0.2,0.001))
+library(caTools)
+spl = sample.split(leave$Application.Status, SplitRatio = 0.75)
+train_leave = subset(leave, spl == TRUE)
+test_leave = subset(leave, spl == FALSE)
+model_caret = train(Application.Status~Type.of.Leave+Department.Team+Position.in.team, data = train_leave,
+                    method = "rpart", tuneGrid = grid, trControl = fitcontrol)
+model_caret
+model_1 = rpart(Application.Status~Type.of.Leave+Department.Team+Position.in.team, data = train_leave, 
+                cp = 0.043)
+pred = predict(model_1, newdata = test_leave, type = "class")
+pre = predict(model_1, newdata = test_leave)
+pre[c(1:100)]
+table(test_leave$Application.Status, pred)
+library(pROC)
+roc1 = roc(test_leave$Application.Status, pre[,1])
+plot(roc1, col = "blue")
