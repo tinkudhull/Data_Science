@@ -1,0 +1,22 @@
+0.105094
+
+# dplyr library important tools
+sleepData <- select(msleep, name, sleep_total) 
+
+filter(msleep, sleep_total >= 16, bodywt >= 1)
+
+msleep %>% select(name, sleep_total) %>% head             ### head(select(msleep, name, sleep_total))
+
+msleep %>% arrange(sleep_total) %>% head
+
+msleep %>% select(name, order, sleep_total) %>% arrange(name, sleep_total) %>% head
+
+msleep %>% select(name, order, sleep_total) %>% arrange(order, sleep_total) %>%  filter(sleep_total >= 16)
+
+msleep %>% select(name, order, sleep_total) %>% arrange(order, desc(sleep_total)) %>%  filter(sleep_total >= 16) #descending
+
+msleep %>% mutate(rem_proportion = sleep_rem / sleep_total) %>% head          # create new columns
+
+msleep %>% mutate(rem_proportion = sleep_rem / sleep_total, bodywt_grams = bodywt * 1000) %>% head
+
+msleep %>% summarise(avg_sleep = mean(sleep_total))
