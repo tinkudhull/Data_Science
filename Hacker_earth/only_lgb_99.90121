@@ -1,0 +1,136 @@
+#only lgb 99.90121
+
+getwd()
+setwd("C:/Users/Test User/Documents/Files/he")
+train = read.csv("train.csv")
+test = read.csv("test.csv")
+sample = read.csv("sample_submission.csv")
+
+trainid =  train$Id
+testid = test$Id
+train$Id = NULL
+test$Id = NULL
+test$SignFacing..Target. = 0
+str(train)
+str(test)
+
+train$SignFacing..Target. = as.numeric(train$SignFacing..Target.)-1
+combin = rbind(train, test)
+str(combin)
+library(dummies)
+dummy_combin = dummy.data.frame(data = combin, names = c("DetectedCamera"), sep = "_")
+str(dummy_combin)
+dummy_combin$DetectedCamera_Left = NULL
+dummy_combin$DetectedCamera_Front = NULL
+dummy_combin$SignWidth = NULL
+train_data = dummy_combin[c(1:nrow(train)),]
+test_data = dummy_combin[-c(1:nrow(train)),]
+str(train_data)
+str(test_data)
+# train$SignAspectRatio = (train$SignWidth/train$SignHeight)*100
+# test$SignAspectRatio = (test$SignWidth/test$SignHeight)*100
+# train$new = (train$AngleOfSign/train$SignAspectRatio)
+# test$new = (test$AngleOfSign/test$SignAspectRatio)
+
+#train$SignWidth = NULL
+#train$SignHeight = NULL
+#test$SignWidth = NULL
+#test$SignHeight = NULL
+library(xgboost)
+library(Matrix)
+library(data.table)
+library(dplyr)
+library(caret)
+df = data.table(train_data, keep.rownames = F)
+dff = data.table(test_data, keep.rownames = F)
+
+sparse_matrix = sparse.model.matrix(SignFacing..Target.~., data = df)
+sparse_matrixx = sparse.model.matrix(SignFacing..Target.~., data = dff)
+
+output =df$SignFacing..Target.
+
+params= list(objective = "multi:softprob", eta = 0.05,
+             num_class = 4,eval_metric = "mlogloss",
+             max_depth = 4#, tree_method = "hist", grow_policy = "lossguide"
+)
+bstt = xgb.cv(data = sparse_matrix, label = output, params = params, nfold = 10,
+              nrounds = 300, prediction = T, early_stopping_rounds = 10) #0.103337, dropping 2
+oof_prediction = data.frame(bstt$pred) %>% 
+  mutate(max_prob = max.col(.,ties.method  = "last"),
+         label = output+1)
+head(oof_prediction)
+confusionMatrix(factor(oof_prediction$label),
+                factor(oof_prediction$max_prob),
+                mode = "everything")
+
+
+bst = xgboost(data = sparse_matrix, label = output, params = params, nrounds = 275)
+
+names = dimnames(sparse_matrix)[[2]]
+importance_matrix = xgb.importance(names, model = bst)
+importance_matrix
+
+
+pred = predict(bst, newdata = sparse_matrixx ,reshape = T)
+head(pred)
+str(sample)
+submit = sample
+pred = data.frame(pred)
+str(pred)
+submit$Front = pred$X1
+submit$Left = pred$X2
+submit$Rear = pred$X3
+submit$Right = pred$X4
+str(submit)
+write.csv(submit, "submitoff.csv", row.names = F)
+
+str(train_data)
+str(test_data)
+library(lightgbm)
+dtrain = lgb.Dataset(data = as.matrix(train_data[,-6]),label = train_data$SignFacing..Target.)
+
+nrounds = 400
+param <- list(objective = "multiclass", num_class= 4, max_depth = 6, num_leaves = 64)
+lgb.cv(param,
+       dtrain,
+       nrounds,
+       nfold = 10,
+       eval = "multi_logloss",
+       early_stopping_rounds = 10,
+       learning_rate = 0.05) #0.103272
+
+bst = lightgbm(data = dtrain,
+               nrounds = 183,
+               objective = "multiclass",
+               num_class= 4,
+               max_depth = 6,
+               num_leaves = 64,
+               learning_rate = 0.05
+)
+lgb.model.imp = lgb.importance(bst, percentage = T)
+print(lgb.model.imp)
+preddtemp = predict(bst, as.matrix(test_data[,-6]), reshape = T)
+head(preddtemp)
+preddtemp[45:51,]
+
+predd2 = as.data.frame(preddtemp)
+head(predd2)
+submit3 = sample
+submit3$Front = predd2$V1
+submit3$Left = predd2$V2
+submit3$Rear = predd2$V3
+submit3$Right = predd2$V4
+
+write.csv(submit3, "submit3.csv", row.names = F)
+
+# submit3 = sample
+# submit3$Front = (submit$Front + submit2$Front)/2
+# submit3$Rear = (submit$Rear + submit2$Rear)/2
+# submit3$Right = (submit$Right + submit2$Right)/2
+# submit3$Left = (submit$Left + submit2$Left)/2
+# 
+# write.csv(submit3, "submit3.csv", row.names = F)
+# 
+# submit3[1:5,]
+# submit[1:5,]
+# submit2[1:5,]
