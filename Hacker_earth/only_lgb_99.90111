@@ -1,0 +1,76 @@
+getwd()
+setwd("C:/Users/Test User/Documents/Files/he")
+train = read.csv("train.csv")
+test = read.csv("test.csv")
+sample = read.csv("sample_submission.csv")
+
+trainid =  train$Id
+testid = test$Id
+train$Id = NULL
+test$Id = NULL
+test$SignFacing..Target. = 0
+str(train)
+str(test)
+
+# train$SignAspectRatio = (train$SignWidth/train$SignHeight)*100
+# test$SignAspectRatio = (test$SignWidth/test$SignHeight)*100
+# train$new = (train$AngleOfSign/train$SignAspectRatio)
+# test$new = (test$AngleOfSign/test$SignAspectRatio)
+
+#train$SignWidth = NULL
+#train$SignHeight = NULL
+#test$SignWidth = NULL
+#test$SignHeight = NULL
+library(xgboost)
+library(Matrix)
+library(data.table)
+library(dplyr)
+library(caret)
+
+str(train)
+str(test)
+train$SignFacing..Target. = as.numeric(train$SignFacing..Target.)-1
+combin = rbind(train, test)
+str(combin)
+library(dummies)
+dummy_combin = dummy.data.frame(data = combin, names = c("DetectedCamera"), sep = "_")
+str(dummy_combin)
+train_data = dummy_combin[c(1:nrow(train)),]
+test_data = dummy_combin[-c(1:nrow(train)),]
+str(train_data)
+str(test_data)
+
+library(lightgbm)
+dtrain = lgb.Dataset(data = as.matrix(train_data[,-9]),label = train_data$SignFacing..Target.)
+dtest = lgb.Dataset(data = as.matrix(test_data[,-9]), label = test_data[,9])
+
+nrounds = 400
+param <- list(objective = "multiclass", num_class= 4, max_depth = 5, num_leaves = 32 )
+lgb.cv(param,
+       dtrain,
+       nrounds,
+       nfold = 10,
+       eval = "multi_logloss",
+       early_stopping_rounds = 20,
+       learning_rate = 0.05)
+
+bst = lightgbm(data = dtrain,
+               nrounds = 200,
+               objective = "multiclass",
+               num_class= 4,
+               max_depth = 5,
+               num_leaves = 32,
+               learning_rate = 0.05
+)
+preddtemp = predict(bst, as.matrix(test_data[,-9]), reshape = T)
+head(preddtemp)
+
+predd2 = as.data.frame(preddtemp)
+head(predd2)
+submit2 = sample
+submit2$Front = predd2$V1
+submit2$Left = predd2$V2
+submit2$Rear = predd2$V3
+submit2$Right = predd2$V4
+
+write.csv(submit2, "submit2.csv", row.names = F)
