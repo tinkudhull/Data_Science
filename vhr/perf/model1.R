@@ -148,7 +148,22 @@ cor(total_vhr_may[,c(10,19,20)])
 str(total_fxi_april)
 library(ggplot2)
 ggplot(data = total_fxi_april, aes(x = Leave.applied.for.no..of.days, y = apr_mar)) +
-  geom_point(aes(colour = apr_mar_sign), size = 5) +
+  geom_point(aes(colour = apr_mar_sign), size = 3, shape = 17) +
+  scale_x_discrete(limits = c(0:12)) +
+  scale_y_discrete(limits = c(-200,-150,-100,-50,0,50,100))
+
+ggplot(data = total_fxi_may, aes(x = Leave.applied.for.no..of.days, y = may_apr)) +
+  geom_point(aes(colour = may_apr_sign), size = 3, shape = 16) +
+  scale_x_discrete(limits = c(0:12)) +
+  scale_y_discrete(limits = c(-200,-150,-100,-50,0,50,100))
+
+ggplot(data = total_vhr_april, aes(x = Leave.applied.for.no..of.days, y = apr_mar)) +
+  geom_point(aes(colour = apr_mar_sign), size = 3, shape = 16) +
+  scale_x_discrete(limits = c(0:12)) +
+  scale_y_discrete(limits = c(-200,-150,-100,-50,0,50,100))
+
+ggplot(data = total_vhr_april, aes(x = Leave.applied.for.no..of.days, y = may_apr)) +
+  geom_point(aes(colour = may_apr_sign), size = 3, shape = 16) +
   scale_x_discrete(limits = c(0:12)) +
   scale_y_discrete(limits = c(-200,-150,-100,-50,0,50,100))
 
