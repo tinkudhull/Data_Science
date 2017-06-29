@@ -42,7 +42,6 @@ str(df)
 df$From.my = (df$Leave.Dates.From.Month * 10000 + df$Leave.Dates.From.Year)
 df$To.my = (df$Leave.Dates.to.Month * 10000 + df$Leave.Dates.to.Year)
 
-View(df)
 xx = (df$From.my == df$To.my)
 table(xx)
 sampl1 = subset(df, xx == FALSE)
@@ -50,9 +49,6 @@ sampl2 = subset(df, xx == TRUE)
 write.csv(sampl1, "sampl1.csv", row.names = F)
 nrow(df)
 sampl1_new = read.csv("sampl1_new.csv")
-View(sampl1_new)
-dim(sampl2)
-dim(sampl1_new)
 names(sampl1_new) = names(sampl2)
 dff = rbind(sampl2, sampl1_new)
 dim(dff)
@@ -112,14 +108,12 @@ fxi_model <- lm(apr_mar ~Type.of.Leave_Absent+Type.of.Leave_Casual.Leave+
 summary(fxi_model)
 pp = predict(fxi_model)
 
-plot(final_fxi_april2$apr_mar, pp, col = "red")
-
 total_fxi = final_fxi
 total_vhr = final_vhr
-total_fxi$apr_mar_sign = ifelse(total_fxi$apr_mar >= 0,1,-1 )
-total_fxi$may_apr_sign = ifelse(total_fxi$may_apr >= 0,1,-1 )
-total_vhr$apr_mar_sign = ifelse(total_vhr$apr_mar >= 0,1,-1 )
-total_vhr$may_apr_sign = ifelse(total_vhr$may_apr >= 0,1,-1 )
+total_fxi$apr_mar_sign = ifelse(total_fxi$apr_mar >= 0,"Positive","Negative" )
+total_fxi$may_apr_sign = ifelse(total_fxi$may_apr >= 0,"Positive","Negative" )
+total_vhr$apr_mar_sign = ifelse(total_vhr$apr_mar >= 0,"Positive","Negative" )
+total_vhr$may_apr_sign = ifelse(total_vhr$may_apr >= 0,"Positive","Negative" )
 
 total_fxi$apr_mar_sign = as.factor(total_fxi$apr_mar_sign)
 total_fxi$may_apr_sign = as.factor(total_fxi$may_apr_sign)
@@ -151,6 +145,12 @@ cor(total_vhr_march[,c(10,19,20)])
 cor(total_vhr_april[,c(10,19,20)])
 cor(total_vhr_may[,c(10,19,20)])
 
+str(total_fxi_april)
+library(ggplot2)
+ggplot(data = total_fxi_april, aes(x = Leave.applied.for.no..of.days, y = apr_mar)) +
+  geom_point(aes(colour = apr_mar_sign), size = 5) +
+  scale_x_discrete(limits = c(0:12)) +
+  scale_y_discrete(limits = c(-200,-150,-100,-50,0,50,100))
 
 # perf_fxi = read.csv("perf_fxi.csv")
 # str(perf_fxi)
