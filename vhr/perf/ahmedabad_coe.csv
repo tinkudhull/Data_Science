@@ -1,0 +1,558 @@
+Employee ID,Department,Designation,Type of Leave,Leave applied for no. of days,Leave Dates From,Leave Dates to,Leaves already availed during the year,No. of times leaves availed during the year,Date of joining the company,Reason/ Criticality of Leave,Profile of employee,Status of Leave,Approved / Rejected by
+FXI219,Ahmedabad - COE,Forex Intern,Earned Leave,1,03-02-2017,03-02-2017,7,3,03-01-2017,Casual,Forex Intern,Approved,Zaman
+FXI219,Ahmedabad - COE,Forex Intern,Leave Without Pay,5,01-05-2017,05-05-2017,7,3,03-01-2017,"I am having exams on 2nd,4th,6th and 8th may, as examination center is far from ahemedabad i am applying for leave from 1st may to 8th may ",Forex Intern,Approved,Kain Tain
+FXI219,Ahmedabad - COE,Forex Intern,Earned Leave,1,08-05-2017,08-05-2017,7,3,03-01-2017,"I am having exams on 2nd,4th,6th and 8th may, as examination center is far from ahemedabad i am applying for leave from 1st may to 8th may",Forex Intern,Approved,Zaman/Riddhish
+FXI226,Ahmedabad - COE,Forex Intern,Earned Leave,1,17-01-2017,17-01-2017,5,5,06-01-2017,doctor's appointment,Forex Intern,Approved,Zaman
+FXI226,Ahmedabad - COE,Forex Intern,Earned Leave,1,10-03-2017,10-03-2017,5,5,06-01-2017,regular check-up,Forex Intern,Approved,Zaman/Riddhish
+FXI226,Ahmedabad - COE,Forex Intern,Earned Leave,1,30-03-2017,30-03-2017,5,5,06-01-2017,Going out of Gujarat,Forex Intern,Approved,Zaman/Riddhish
+FXI226,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,31-03-2017,31-03-2017,5,5,06-01-2017,Going out of Gujarat,Forex Intern,Approved,Zaman/Riddhish
+FXI226,Ahmedabad - COE,Forex Intern,Earned Leave,1,08-05-2017,08-05-2017,5,5,06-01-2017,Emergency appointment with doctor,Forex Intern,Approved,Zaman/Riddhish
+FXI232,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,06-02-2017,06-02-2017,4,4,13-01-2017,casual leave,Forex Intern,Approved,Zaman
+FXI232,Ahmedabad - COE,Forex Intern,Earned Leave,1,14-03-2017,14-03-2017,4,4,13-01-2017,Going out of town for couple of days,Forex Intern,Approved,Zaman/Riddhish
+FXI232,Ahmedabad - COE,Forex Intern,Earned Leave,1,14-03-2017,14-03-2017,4,4,13-01-2017,Outside Ahmedabad,Forex Intern,Rejected,Zaman/Riddhish
+FXI232,Ahmedabad - COE,Forex Intern,Earned Leave,1,10-04-2017,10-04-2017,4,4,13-01-2017,leave for visiting hometown.,Forex Intern,Approved,Zaman/Riddhish
+FXI233,Ahmedabad - COE,Forex Intern,Earned Leave,0.5,17-02-2017,17-02-2017,6,8,17-01-2017,casual,Forex Intern,Approved,Zaman/Riddhish
+FXI233,Ahmedabad - COE,Forex Intern,Earned Leave,0.5,27-02-2017,27-02-2017,6,8,17-01-2017, Viral Infections (Sick Leave)  ,Forex Intern,Approved,Zaman/Riddhish
+FXI233,Ahmedabad - COE,Forex Intern,Leave Without Pay,0.5,27-02-2017,27-02-2017,6,8,17-01-2017,sick leave,Forex Intern,Approved,Zaman/Riddhish
+FXI233,Ahmedabad - COE,Forex Intern,Earned Leave,1,03-03-2017,03-03-2017,6,8,17-01-2017,regarding sick leave,Forex Intern,Approved,Zaman/Riddhish
+FXI233,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,03-03-2017,03-03-2017,6,8,17-01-2017,regarding sick leave,Forex Intern,Rejected,Zaman/Riddhish
+FXI233,Ahmedabad - COE,Forex Intern,Earned Leave,1,24-03-2017,24-03-2017,6,8,17-01-2017,casual,Forex Intern,Rejected,Zaman/Riddhish
+FXI233,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,10-04-2017,10-04-2017,6,8,17-01-2017,regarding in my family some emergency,Forex Intern,Approved,Zaman/Riddhish
+FXI233,Ahmedabad - COE,Forex Intern,Earned Leave,0.5,19-05-2017,19-05-2017,6,8,17-01-2017,regarding sickness,Forex Intern,Approved,Zaman/Riddhish
+FXI234,Ahmedabad - COE,Forex Intern,Earned Leave,0.5,10-02-2017,10-02-2017,3,4,17-01-2017,casual leave,Forex Intern,Approved,Zaman
+FXI234,Ahmedabad - COE,Forex Intern,Earned Leave,1,14-03-2017,14-03-2017,3,4,17-01-2017,casual leave,Forex Intern,Approved,Zaman/Riddhish
+FXI234,Ahmedabad - COE,Forex Intern,Earned Leave,1,12-04-2017,12-04-2017,3,4,17-01-2017,casual leave,Forex Intern,Approved,Zaman/Riddhish
+FXI234,Ahmedabad - COE,Forex Intern,Earned Leave,0.5,24-05-2017,24-05-2017,3,4,17-01-2017,casual leave,Forex Intern,Approved,Zaman/Riddhish
+FXI235,Ahmedabad - COE,Forex Intern,Earned Leave,0.5,14-03-2017,14-03-2017,0.5,1,18-01-2017,casual,Forex Intern,Approved,Zaman/Riddhish
+FXI236,Ahmedabad - COE,Forex Intern,Earned Leave,1,10-02-2017,10-02-2017,5,6,18-01-2017,casual Leave,Forex Intern,Approved,Zaman
+FXI236,Ahmedabad - COE,Forex Intern,Leave Without Pay,0.5,21-02-2017,21-02-2017,5,6,18-01-2017,was late that day,Forex Intern,Approved,Zaman/Riddhish
+FXI236,Ahmedabad - COE,Forex Intern,Leave Without Pay,0.5,24-02-2017,24-02-2017,5,6,18-01-2017,was late that day,Forex Intern,Approved,Zaman/Riddhish
+FXI236,Ahmedabad - COE,Forex Intern,Earned Leave,1,14-03-2017,14-03-2017,5,6,18-01-2017,casual Leave,Forex Intern,Approved,Zaman/Riddhish
+FXI236,Ahmedabad - COE,Forex Intern,Earned Leave,1,27-03-2017,27-03-2017,5,6,18-01-2017,Casual Leave,Forex Intern,Approved,Zaman/Riddhish
+FXI236,Ahmedabad - COE,Forex Intern,Earned Leave,1,21-04-2017,21-04-2017,5,6,18-01-2017,Going out of Ahmedabad to visit home,Forex Intern,Approved,Zaman/Riddhish
+FXI237,Ahmedabad - COE,Forex Intern,Earned Leave,1,17-02-2017,17-02-2017,14.5,10,18-01-2017,casual,Forex Intern,Approved,Zaman/Riddhish
+FXI237,Ahmedabad - COE,Forex Intern,Leave Without Pay,4,27-02-2017,02-03-2017,14.5,10,18-01-2017,"i am last year engineering student so,i have to attend mid semester examination ",Forex Intern,Approved,Kain Tain
+FXI237,Ahmedabad - COE,Forex Intern,Earned Leave,0.5,17-03-2017,17-03-2017,14.5,10,18-01-2017,submissions,Forex Intern,Approved,Zaman/Riddhish
+FXI237,Ahmedabad - COE,Forex Intern,Earned Leave,0.5,27-03-2017,27-03-2017,14.5,10,18-01-2017,project submission,Forex Intern,Approved,Zaman/Riddhish
+FXI237,Ahmedabad - COE,Forex Intern,Earned Leave,1,03-04-2017,03-04-2017,14.5,10,18-01-2017,Project submission,Forex Intern,Approved,Zaman/Riddhish
+FXI237,Ahmedabad - COE,Forex Intern,Earned Leave,0.5,07-04-2017,07-04-2017,14.5,10,18-01-2017,final submission,Forex Intern,Approved,Zaman/Riddhish
+FXI237,Ahmedabad - COE,Forex Intern,Leave Without Pay,4,17-04-2017,20-04-2017,14.5,10,18-01-2017,university examination,Forex Intern,Approved,Kain Tain
+FXI237,Ahmedabad - COE,Forex Intern,Leave Without Pay,2,26-04-2017,27-04-2017,14.5,10,18-01-2017,project presentation and viva,Forex Intern,Approved,Zaman/Riddhish
+FXI237,Ahmedabad - COE,Forex Intern,Leave Without Pay,0.5,02-05-2017,02-05-2017,14.5,10,18-01-2017,health issue,Forex Intern,Approved,Zaman/Riddhish
+FXI237,Ahmedabad - COE,Forex Intern,Leave Without Pay,0.5,22-05-2017,22-05-2017,14.5,10,18-01-2017,family function,Forex Intern,Approved,Zaman/Riddhish
+FXI238,Ahmedabad - COE,Forex Intern,Earned Leave,0.5,20-02-2017,20-02-2017,3.5,4,18-01-2017,Due to accident ,Forex Intern,Approved,Zaman/Riddhish
+FXI238,Ahmedabad - COE,Forex Intern,Earned Leave,1,17-03-2017,17-03-2017,3.5,4,18-01-2017,Cousin' Engagement,Forex Intern,Approved,Zaman/Riddhish
+FXI238,Ahmedabad - COE,Forex Intern,Earned Leave,1,02-05-2017,02-05-2017,3.5,4,18-01-2017,Family Function ( Cousin's Marriage ),Forex Intern,Approved,Zaman/Riddhish
+FXI238,Ahmedabad - COE,Forex Intern,Earned Leave,1,08-05-2017,08-05-2017,3.5,4,18-01-2017,Family Function (Cousin'S Reception),Forex Intern,Approved,Zaman/Riddhish
+FXI239,Ahmedabad - COE,Forex Intern,Earned Leave,1,16-03-2017,16-03-2017,18.5,11,19-01-2017,College Techfest,Forex Intern,Approved,Zaman/Riddhish
+FXI239,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,23-03-2017,23-03-2017,18.5,11,19-01-2017,Project work,Forex Intern,Approved,Zaman/Riddhish
+FXI239,Ahmedabad - COE,Forex Intern,Leave Without Pay,3,05-04-2017,07-04-2017,18.5,11,19-01-2017,mid semester exam,Forex Intern,Approved,Kain Tain
+FXI239,Ahmedabad - COE,Forex Intern,Leave Without Pay,2,12-04-2017,13-04-2017,18.5,11,19-01-2017,Midsemester exam,Forex Intern,Approved,Zaman/Riddhish
+FXI239,Ahmedabad - COE,Forex Intern,Earned Leave,1,17-04-2017,17-04-2017,18.5,11,19-01-2017,Submission ,Forex Intern,Approved,Zaman/Riddhish
+FXI239,Ahmedabad - COE,Forex Intern,Earned Leave,1,18-04-2017,18-04-2017,18.5,11,19-01-2017,Submission at college ,Forex Intern,Rejected,Zaman/Riddhish
+FXI239,Ahmedabad - COE,Forex Intern,Leave Without Pay,4,25-04-2017,28-04-2017,18.5,11,19-01-2017,University Final Exam,Forex Intern,Approved,Kain Tain
+FXI239,Ahmedabad - COE,Forex Intern,Leave Without Pay,4,02-05-2017,05-05-2017,18.5,11,19-01-2017,University Final Exam,Forex Intern,Approved,Kain Tain
+FXI239,Ahmedabad - COE,Forex Intern,Earned Leave,0.5,15-05-2017,15-05-2017,18.5,11,19-01-2017,External Viva,Forex Intern,Approved,Zaman/Riddhish
+FXI239,Ahmedabad - COE,Forex Intern,Earned Leave,0.5,18-05-2017,18-05-2017,18.5,11,19-01-2017,External Viva,Forex Intern,Approved,Zaman/Riddhish
+FXI239,Ahmedabad - COE,Forex Intern,Earned Leave,0.5,19-05-2017,19-05-2017,18.5,11,19-01-2017,Farewell event at college,Forex Intern,Approved,Zaman/Riddhish
+FXI247,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,13-02-2017,13-02-2017,15.5,16,25-01-2017,"I was try to submit the leave before but still it is not submitted. Hence i am putting it again. On 13th feb i went to collage for some important work so i could not come to company. Hence, please mark the attendance for said day.",Forex Intern,Approved,Zaman
+FXI247,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,21-02-2017,21-02-2017,15.5,16,25-01-2017,"I was submitted leave on 20 feb but it was not submitted hence i am putting it now, My sister's marriage was gone before two days, So, There was function on 21 feb at my sister's home, I had to go there. Hence, i could not came to company.",Forex Intern,Approved,Zaman/Riddhish
+FXI247,Ahmedabad - COE,Forex Intern,Earned Leave,1,01-03-2017,01-03-2017,15.5,16,25-01-2017,"My uncle's marriage is on that day so I have to go there. Hence, I am putting leave over here.",Forex Intern,Approved,Zaman/Riddhish
+FXI247,Ahmedabad - COE,Forex Intern,Leave Without Pay,2,08-03-2017,09-03-2017,15.5,16,25-01-2017,"On both days we have a visit at Adani port, Mundra from our collage and it is very important so we have to go there. Hence we can not come to company. So please accept the leave for the said period.",Forex Intern,Approved,Zaman/Riddhish
+FXI247,Ahmedabad - COE,Forex Intern,Earned Leave,0.5,20-03-2017,20-03-2017,15.5,16,25-01-2017,There will be presentation in our collage on 20th march. So I have to go there. Hence I am taking half leave.,Forex Intern,Approved,Zaman/Riddhish
+FXI247,Ahmedabad - COE,Forex Intern,Leave Without Pay,0.5,24-03-2017,24-03-2017,15.5,16,25-01-2017,I have an Exam of training. Hence I need to take half leave.,Forex Intern,Approved,Zaman/Riddhish
+FXI247,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,27-03-2017,27-03-2017,15.5,16,25-01-2017,There is project presentation in our collage GIT. So I have to go collage. Hence I am taking this leave,Forex Intern,Approved,Zaman/Riddhish
+FXI247,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,07-04-2017,07-04-2017,15.5,16,25-01-2017,I have Mid term Exam of collage at gandhinagar Institute of Technology.,Forex Intern,Approved,Zaman/Riddhish
+FXI247,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,10-04-2017,10-04-2017,15.5,16,25-01-2017,Exam ,Forex Intern,Approved,Zaman/Riddhish
+FXI247,Ahmedabad - COE,Forex Intern,Earned Leave,0.5,20-04-2017,20-04-2017,15.5,16,25-01-2017,Project submission at college.,Forex Intern,Approved,Zaman/Riddhish
+FXI247,Ahmedabad - COE,Forex Intern,Earned Leave,0.5,24-04-2017,24-04-2017,15.5,16,25-01-2017,I need to go college to collect exam hall ticket. ,Forex Intern,Approved,Zaman/Riddhish
+FXI247,Ahmedabad - COE,Forex Intern,Leave Without Pay,3,02-05-2017,04-05-2017,15.5,16,25-01-2017,Final Semester exams,Forex Intern,Approved,Kain Tain
+FXI247,Ahmedabad - COE,Forex Intern,Earned Leave,0.5,08-05-2017,08-05-2017,15.5,16,25-01-2017,I need to go in an event with my mother.,Forex Intern,Approved,Zaman/Riddhish
+FXI247,Ahmedabad - COE,Forex Intern,Earned Leave,0.5,15-05-2017,15-05-2017,15.5,16,25-01-2017,External viva exam at college.,Forex Intern,Approved,Zaman/Riddhish
+FXI247,Ahmedabad - COE,Forex Intern,Earned Leave,1,16-05-2017,16-05-2017,15.5,16,25-01-2017,External viva at College,Forex Intern,Approved,Zaman/Riddhish
+FXI247,Ahmedabad - COE,Forex Intern,Earned Leave,0.5,19-05-2017,19-05-2017,15.5,16,25-01-2017,Farewell Event at college. ,Forex Intern,Approved,Zaman/Riddhish
+FXI248,Ahmedabad - COE,Forex Intern,Earned Leave,0.5,20-04-2017,20-04-2017,1.5,2,20-01-2017,As i am having a family function to attend.,Forex Intern,Approved,Zaman/Riddhish
+FXI248,Ahmedabad - COE,Forex Intern,Earned Leave,1,08-05-2017,08-05-2017,1.5,2,20-01-2017,visiting  native place for family function..,Forex Intern,Approved,Zaman/Riddhish
+FXI249,Ahmedabad - COE,Forex Intern,Leave Without Pay,0.5,08-03-2017,08-03-2017,21,15,25-01-2017,College submision,Forex Intern,Approved,Zaman/Riddhish
+FXI249,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,16-03-2017,16-03-2017,21,15,25-01-2017,technical fest. at College,Forex Intern,Approved,Zaman/Riddhish
+FXI249,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,17-03-2017,17-03-2017,21,15,25-01-2017,"As my grandfather was expired i have to go for there barsy""",Forex Intern,Approved,Zaman/Riddhish
+FXI249,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,22-03-2017,22-03-2017,21,15,25-01-2017,sick leave,Forex Intern,Approved,Zaman/Riddhish
+FXI249,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,23-03-2017,23-03-2017,21,15,25-01-2017,sick leave (fever),Forex Intern,Approved,Zaman/Riddhish
+FXI249,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,27-03-2017,27-03-2017,21,15,25-01-2017,project fair in college,Forex Intern,Approved,Zaman/Riddhish
+FXI249,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,29-03-2017,29-03-2017,21,15,25-01-2017,health issues,Forex Intern,Approved,Zaman/Riddhish
+FXI249,Ahmedabad - COE,Forex Intern,Leave Without Pay,3,05-04-2017,07-04-2017,21,15,25-01-2017,college midterm exams,Forex Intern,Approved,Kain Tain
+FXI249,Ahmedabad - COE,Forex Intern,Leave Without Pay,2,11-04-2017,12-04-2017,21,15,25-01-2017,family  function,Forex Intern,Approved,Zaman/Riddhish
+FXI249,Ahmedabad - COE,Forex Intern,Earned Leave,1,17-04-2017,17-04-2017,21,15,25-01-2017,college submission,Forex Intern,Rejected,Zaman/Riddhish
+FXI249,Ahmedabad - COE,Forex Intern,Leave Without Pay,3,26-04-2017,28-04-2017,21,15,25-01-2017,University End Semester exams,Forex Intern,Approved,Kain Tain
+FXI249,Ahmedabad - COE,Forex Intern,Leave Without Pay,4,02-05-2017,05-05-2017,21,15,25-01-2017,college final exams(gtu),Forex Intern,Approved,Kain Tain
+FXI249,Ahmedabad - COE,Forex Intern,Earned Leave,0.5,15-05-2017,15-05-2017,21,15,25-01-2017,college external viva,Forex Intern,Approved,Zaman/Riddhish
+FXI249,Ahmedabad - COE,Forex Intern,Earned Leave,0.5,18-05-2017,18-05-2017,21,15,25-01-2017,college external viva,Forex Intern,Approved,Zaman/Riddhish
+FXI249,Ahmedabad - COE,Forex Intern,Earned Leave,0.5,19-05-2017,19-05-2017,21,15,25-01-2017,college farewell,Forex Intern,Approved,Zaman/Riddhish
+FXI250,Ahmedabad - COE,Forex Intern,Earned Leave,1,14-02-2017,14-02-2017,19,16,25-01-2017,"sir, i have taken an emergency leave on 14th, and on that day my ve credentials has not been activated, so i am requesting for the ticket now.",Forex Intern,Approved,Zaman
+FXI250,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,27-02-2017,27-02-2017,19,16,25-01-2017,i need to attend college due to some project work.,Forex Intern,Approved,Zaman/Riddhish
+FXI250,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,06-03-2017,06-03-2017,19,16,25-01-2017,have to attend college to complete practicals.,Forex Intern,Approved,Zaman/Riddhish
+FXI250,Ahmedabad - COE,Forex Intern,Earned Leave,1,10-03-2017,10-03-2017,19,16,25-01-2017,"am sick, suffering from chickenpox.",Forex Intern,Approved,Zaman/Riddhish
+FXI250,Ahmedabad - COE,Forex Intern,Earned Leave,1,21-03-2017,21-03-2017,19,16,25-01-2017,project work,Forex Intern,Approved,Zaman/Riddhish
+FXI250,Ahmedabad - COE,Forex Intern,Earned Leave,1,27-03-2017,27-03-2017,19,16,25-01-2017,submissions,Forex Intern,Approved,Zaman/Riddhish
+FXI250,Ahmedabad - COE,Forex Intern,Earned Leave,1,28-03-2017,28-03-2017,19,16,25-01-2017,submissions in college.,Forex Intern,Approved,Zaman/Riddhish
+FXI250,Ahmedabad - COE,Forex Intern,Leave Without Pay,3,05-04-2017,07-04-2017,19,16,25-01-2017,exams in college,Forex Intern,Approved,Kain Tain
+FXI250,Ahmedabad - COE,Forex Intern,Earned Leave,1,17-04-2017,17-04-2017,19,16,25-01-2017,submissions in college,Forex Intern,Rejected,Zaman/Riddhish
+FXI250,Ahmedabad - COE,Forex Intern,Earned Leave,0.5,20-04-2017,20-04-2017,19,16,25-01-2017,project presentation,Forex Intern,Approved,Zaman/Riddhish
+FXI250,Ahmedabad - COE,Forex Intern,Leave Without Pay,3,26-04-2017,28-04-2017,19,16,25-01-2017,university end semester(final) examinations,Forex Intern,Approved,Kain Tain
+FXI250,Ahmedabad - COE,Forex Intern,Leave Without Pay,0.5,02-05-2017,02-05-2017,19,16,25-01-2017,police verification for passport,Forex Intern,Approved,Zaman/Riddhish
+FXI250,Ahmedabad - COE,Forex Intern,Leave Without Pay,2,03-05-2017,04-05-2017,19,16,25-01-2017,end semester exam continued ,Forex Intern,Approved,Zaman/Riddhish
+FXI250,Ahmedabad - COE,Forex Intern,Leave Without Pay,0.5,05-05-2017,05-05-2017,19,16,25-01-2017,not feeling well.,Forex Intern,Approved,Zaman/Riddhish
+FXI250,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,15-05-2017,15-05-2017,19,16,25-01-2017,external viva in college,Forex Intern,Approved,Zaman/Riddhish
+FXI250,Ahmedabad - COE,Forex Intern,Leave Without Pay,0.5,19-05-2017,19-05-2017,19,16,25-01-2017,external viva in college,Forex Intern,Approved,Zaman/Riddhish
+FXI251,Ahmedabad - COE,Forex Intern,Earned Leave,1,13-02-2017,13-02-2017,11,13,25-01-2017,I've out of city and that day i haven't received my BEM mail so please approve my request,Forex Intern,Rejected,Zaman
+FXI251,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,22-02-2017,22-02-2017,11,13,25-01-2017,passport appointment,Forex Intern,Rejected,Zaman/Riddhish
+FXI251,Ahmedabad - COE,Forex Intern,Leave Without Pay,0.5,27-02-2017,27-02-2017,11,13,25-01-2017,college exam,Forex Intern,Approved,Zaman/Riddhish
+FXI251,Ahmedabad - COE,Forex Intern,Earned Leave,1,30-03-2017,30-03-2017,11,13,25-01-2017,project submission day-1 at college,Forex Intern,Approved,Zaman/Riddhish
+FXI251,Ahmedabad - COE,Forex Intern,Earned Leave,1,31-03-2017,31-03-2017,11,13,25-01-2017,project submission in project fair at college day-2,Forex Intern,Approved,Zaman/Riddhish
+FXI251,Ahmedabad - COE,Forex Intern,Earned Leave,1,27-04-2017,27-04-2017,11,13,25-01-2017,college internal submission,Forex Intern,Rejected,Zaman/Riddhish
+FXI251,Ahmedabad - COE,Forex Intern,Earned Leave,1,28-04-2017,28-04-2017,11,13,25-01-2017,college internal viva,Forex Intern,Approved,Zaman/Riddhish
+FXI251,Ahmedabad - COE,Forex Intern,Earned Leave,1,02-05-2017,02-05-2017,11,13,25-01-2017,university exam ,Forex Intern,Approved,Zaman/Riddhish
+FXI251,Ahmedabad - COE,Forex Intern,Earned Leave,0.5,12-05-2017,12-05-2017,11,13,25-01-2017,sick leave,Forex Intern,Approved,Zaman/Riddhish
+FXI251,Ahmedabad - COE,Forex Intern,Earned Leave,1,15-05-2017,15-05-2017,11,13,25-01-2017,external viva exam at college,Forex Intern,Approved,Zaman/Riddhish
+FXI251,Ahmedabad - COE,Forex Intern,Earned Leave,0.5,16-05-2017,16-05-2017,11,13,25-01-2017,external viva exam at college day-2,Forex Intern,Approved,Zaman/Riddhish
+FXI251,Ahmedabad - COE,Forex Intern,Earned Leave,1,17-05-2017,17-05-2017,11,13,25-01-2017,external viva exam day-3,Forex Intern,Approved,Zaman/Riddhish
+FXI251,Ahmedabad - COE,Forex Intern,Earned Leave,0.5,18-05-2017,18-05-2017,11,13,25-01-2017,external viva exam day-4,Forex Intern,Approved,Zaman/Riddhish
+FXI252,Ahmedabad - COE,Forex Intern,Earned Leave,1,15-02-2017,15-02-2017,2.5,3,23-01-2017,"Sir I take leaves on date 15th feb, 2017 and I inform you by mail because my BEM credential not updated. Please approve my leave.",Forex Intern,Rejected,Zaman/Riddhish
+FXI252,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,16-02-2017,16-02-2017,2.5,3,23-01-2017,Sir I take leave on 15th feb 2017 for attending my wedding at Patan Gujarat my BEM credential haven't updated That time so I could not apply for leave. please approve my leave.,Forex Intern,Rejected,Zaman/Riddhish
+FXI252,Ahmedabad - COE,Forex Intern,Earned Leave,0.5,05-04-2017,05-04-2017,2.5,3,23-01-2017,My health is not well,Forex Intern,Approved,Zaman/Riddhish
+FXI255,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,14-03-2017,14-03-2017,3.5,4,01-02-2017,passport appointment ,Forex Intern,Approved,Zaman/Riddhish
+FXI255,Ahmedabad - COE,Forex Intern,Earned Leave,1,07-04-2017,07-04-2017,3.5,4,01-02-2017,casual leave,Forex Intern,Approved,Zaman/Riddhish
+FXI255,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,10-04-2017,10-04-2017,3.5,4,01-02-2017,family problem ,Forex Intern,Approved,Zaman/Riddhish
+FXI255,Ahmedabad - COE,Forex Intern,Earned Leave,0.5,17-04-2017,17-04-2017,3.5,4,01-02-2017,sick leave,Forex Intern,Approved,Zaman/Riddhish
+FXI256,Ahmedabad - COE,Forex Intern,Leave Without Pay,2,08-03-2017,09-03-2017,16,12,31-01-2017,"My college (Gandhinagar institute of technology) is going to organize industrial visit to Adani port, Mundra from 8th March to 9th march(2days).",Forex Intern,Approved,Zaman/Riddhish
+FXI256,Ahmedabad - COE,Forex Intern,Leave Without Pay,2,14-03-2017,15-03-2017,16,12,31-01-2017,In this two day's at My new home in 'Vastupujan' function.,Forex Intern,Approved,Zaman/Riddhish
+FXI256,Ahmedabad - COE,Forex Intern,Leave Without Pay,0.5,20-03-2017,20-03-2017,16,12,31-01-2017,Regarding project presentation In my GIT-college and it's final year presentation of my project.,Forex Intern,Approved,Zaman/Riddhish
+FXI256,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,27-03-2017,27-03-2017,16,12,31-01-2017,Today we have GTU Project fair in our college so i will not coming in company.,Forex Intern,Approved,Zaman/Riddhish
+FXI256,Ahmedabad - COE,Forex Intern,Leave Without Pay,2,30-03-2017,31-03-2017,16,12,31-01-2017,"Respected sir, some urgent work arise in my college so please i will not come in these two days.  ",Forex Intern,Approved,Zaman/Riddhish
+FXI256,Ahmedabad - COE,Forex Intern,Earned Leave,1,07-04-2017,07-04-2017,16,12,31-01-2017,"Mid-sem exam of over college,",Forex Intern,Approved,Zaman/Riddhish
+FXI256,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,10-04-2017,10-04-2017,16,12,31-01-2017,Mid-sem exam and final submission in my college(GIT).,Forex Intern,Approved,Zaman/Riddhish
+FXI256,Ahmedabad - COE,Forex Intern,Earned Leave,0.5,24-04-2017,24-04-2017,16,12,31-01-2017,In this day am i going to college and reason is collect the final exam hall ticket by college admin. and submission also of my project. ,Forex Intern,Approved,Zaman/Riddhish
+FXI256,Ahmedabad - COE,Forex Intern,Leave Without Pay,4,02-05-2017,05-05-2017,16,12,31-01-2017,"Respected Sir, 2nd-3rd-4th May 2017 on leave for final year exam purpose. and 5th May 2017 on leave because am i going to Rajasthan with family.",Forex Intern,Approved,Kain Tain
+FXI256,Ahmedabad - COE,Forex Intern,Earned Leave,0.5,15-05-2017,15-05-2017,16,12,31-01-2017,"Respected sir, In days external viva in my college.",Forex Intern,Approved,Zaman/Riddhish
+FXI256,Ahmedabad - COE,Forex Intern,Earned Leave,1,16-05-2017,16-05-2017,16,12,31-01-2017,"Respected Sir, In this day external viva of final year project subject. ",Forex Intern,Approved,Zaman/Riddhish
+FXI256,Ahmedabad - COE,Forex Intern,Earned Leave,0.5,19-05-2017,19-05-2017,16,12,31-01-2017,"Respected sir, Today's farewell party organized by our college.",Forex Intern,Approved,Zaman/Riddhish
+FXI257,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,03-03-2017,03-03-2017,18.5,14,31-01-2017,I have to go village immediately today so i cant reach at office.,Forex Intern,Approved,Zaman/Riddhish
+FXI257,Ahmedabad - COE,Forex Intern,Earned Leave,0.5,07-03-2017,07-03-2017,18.5,14,31-01-2017,I have presentation in my college. so please aprove my leave.,Forex Intern,Approved,Zaman/Riddhish
+FXI257,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,27-03-2017,27-03-2017,18.5,14,31-01-2017,Sir i have project fair in my college on monday so i want leave for one day.,Forex Intern,Approved,Zaman/Riddhish
+FXI257,Ahmedabad - COE,Forex Intern,Earned Leave,1,07-04-2017,07-04-2017,18.5,14,31-01-2017,i have mid sem exam in my college.,Forex Intern,Approved,Zaman/Riddhish
+FXI257,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,12-04-2017,12-04-2017,18.5,14,31-01-2017,Sir on that day i have mid sem exam in my college so please approve my leave,Forex Intern,Approved,Zaman/Riddhish
+FXI257,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,17-04-2017,17-04-2017,18.5,14,31-01-2017,Sir today i have submission in my college so please approve my leave.,Forex Intern,Approved,Zaman/Riddhish
+FXI257,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,18-04-2017,18-04-2017,18.5,14,31-01-2017,Sir on this day i have submission in my college so please approve my leave,Forex Intern,Rejected,Zaman/Riddhish
+FXI257,Ahmedabad - COE,Forex Intern,Leave Without Pay,4,25-04-2017,28-04-2017,18.5,14,31-01-2017,Exam,Forex Intern,Approved,Kain Tain
+FXI257,Ahmedabad - COE,Forex Intern,Leave Without Pay,2,01-05-2017,02-05-2017,18.5,14,31-01-2017,Exam,Forex Intern,Approved,Zaman/Riddhish
+FXI257,Ahmedabad - COE,Forex Intern,Leave Without Pay,3,15-05-2017,17-05-2017,18.5,14,31-01-2017,External Viva,Forex Intern,Approved,Kain Tain
+FXI257,Ahmedabad - COE,Forex Intern,Leave Without Pay,0.5,22-05-2017,22-05-2017,18.5,14,31-01-2017,Exam Preparation,Forex Intern,Approved,Zaman/Riddhish
+FXI257,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,23-05-2017,23-05-2017,18.5,14,31-01-2017,Exam,Forex Intern,Approved,Zaman/Riddhish
+FXI257,Ahmedabad - COE,Forex Intern,Leave Without Pay,0.5,24-05-2017,24-05-2017,18.5,14,31-01-2017,exam preparation,Forex Intern,Approved,Zaman/Riddhish
+FXI257,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,25-05-2017,25-05-2017,18.5,14,31-01-2017,exam,Forex Intern,Approved,Zaman/Riddhish
+FXI258,Ahmedabad - COE,Forex Intern,Leave Without Pay,0.5,20-03-2017,20-03-2017,8,9,31-01-2017,having mid term exams,Forex Intern,Approved,Zaman/Riddhish
+FXI258,Ahmedabad - COE,Forex Intern,Earned Leave,0.5,21-03-2017,21-03-2017,8,9,31-01-2017,having mid term exam,Forex Intern,Approved,Zaman/Riddhish
+FXI258,Ahmedabad - COE,Forex Intern,Earned Leave,0.5,22-03-2017,22-03-2017,8,9,31-01-2017,exam,Forex Intern,Approved,Zaman/Riddhish
+FXI258,Ahmedabad - COE,Forex Intern,Earned Leave,0.5,23-03-2017,23-03-2017,8,9,31-01-2017,exam,Forex Intern,Approved,Zaman/Riddhish
+FXI258,Ahmedabad - COE,Forex Intern,Leave Without Pay,0.5,06-04-2017,06-04-2017,8,9,31-01-2017,submission ,Forex Intern,Approved,Zaman/Riddhish
+FXI258,Ahmedabad - COE,Forex Intern,Leave Without Pay,4,24-04-2017,27-04-2017,8,9,31-01-2017,Having end term exams,Forex Intern,Approved,Kain Tain
+FXI258,Ahmedabad - COE,Forex Intern,Earned Leave,0.5,02-05-2017,02-05-2017,8,9,31-01-2017,Need to give presentation,Forex Intern,Approved,Zaman/Riddhish
+FXI258,Ahmedabad - COE,Forex Intern,Earned Leave,0.5,19-05-2017,19-05-2017,8,9,31-01-2017,External presentation and viva ,Forex Intern,Approved,Zaman/Riddhish
+FXI258,Ahmedabad - COE,Forex Intern,Earned Leave,0.5,23-05-2017,23-05-2017,8,9,31-01-2017,GTU VIVA ,Forex Intern,Approved,Zaman/Riddhish
+FXI259,Ahmedabad - COE,Forex Intern,Earned Leave,1,27-02-2017,27-02-2017,19.5,13,31-01-2017,"I am in final year of Engineering(LDRP-ITR), so i have to attend my Mid Term Examination",Forex Intern,Approved,Zaman/Riddhish
+FXI259,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,28-02-2017,28-02-2017,19.5,13,31-01-2017,"I am in final year of Engineering(LDRP-ITR), so i have to attend my Mid Term Examination",Forex Intern,Approved,Zaman/Riddhish
+FXI259,Ahmedabad - COE,Forex Intern,Earned Leave,1,14-03-2017,14-03-2017,19.5,13,31-01-2017,casual leave,Forex Intern,Approved,Zaman/Riddhish
+FXI259,Ahmedabad - COE,Forex Intern,Leave Without Pay,3,15-03-2017,17-03-2017,19.5,13,31-01-2017,Family function at haryana.,Forex Intern,Approved,Kain Tain
+FXI259,Ahmedabad - COE,Forex Intern,Leave Without Pay,3,20-03-2017,22-03-2017,19.5,13,31-01-2017,Final year project preperation.,Forex Intern,Approved,Kain Tain
+FXI259,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,05-04-2017,05-04-2017,19.5,13,31-01-2017,Sick Leave,Forex Intern,Approved,Zaman/Riddhish
+FXI259,Ahmedabad - COE,Forex Intern,Earned Leave,1,07-04-2017,07-04-2017,19.5,13,31-01-2017,As we are inform to submit our final year project tomorrow (7th April).,Forex Intern,Approved,Zaman/Riddhish
+FXI259,Ahmedabad - COE,Forex Intern,Leave Without Pay,2.5,11-04-2017,13-04-2017,19.5,13,31-01-2017,University submissions.,Forex Intern,Approved,Kain Tain
+FXI259,Ahmedabad - COE,Forex Intern,Earned Leave,1,17-04-2017,17-04-2017,19.5,13,31-01-2017,Family function.,Forex Intern,Approved,Zaman/Riddhish
+FXI259,Ahmedabad - COE,Forex Intern,Earned Leave,1,17-04-2017,17-04-2017,19.5,13,31-01-2017,Casual Leave.,Forex Intern,Rejected,Zaman/Riddhish
+FXI259,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,18-04-2017,18-04-2017,19.5,13,31-01-2017,university exam,Forex Intern,Approved,Zaman/Riddhish
+FXI259,Ahmedabad - COE,Forex Intern,Leave Without Pay,2,26-04-2017,27-04-2017,19.5,13,31-01-2017,External vivas on 26th and 27th April.,Forex Intern,Approved,Zaman/Riddhish
+FXI259,Ahmedabad - COE,Forex Intern,Earned Leave,1,23-05-2017,23-05-2017,19.5,13,31-01-2017,Neck pain,Forex Intern,Approved,Zaman/Riddhish
+FXI260,Ahmedabad - COE,Forex Intern,Earned Leave,1,21-04-2017,21-04-2017,8,2,31-01-2017,I HAVE TO GO HOSPITAL WITH MY FATHER FOR CHECK UP. SO PLEASE GIVE ME LEAVE.,Forex Intern,Approved,Zaman/Riddhish
+FXI260,Ahmedabad - COE,Forex Intern,Leave Without Pay,7,15-05-2017,23-05-2017,8,2,31-01-2017,i have to go  with my father to medical treatment in pune. so please give me a leave.,Forex Intern,Approved,Kain Tain
+FXI261,Ahmedabad - COE,Forex Intern,Earned Leave,1,03-03-2017,03-03-2017,2,2,26-01-2017,"have to go for cousins marriage on 3rd of march 2017, so please give me leave.",Forex Intern,Approved,Zaman/Riddhish
+FXI261,Ahmedabad - COE,Forex Intern,Earned Leave,1,12-05-2017,12-05-2017,2,2,26-01-2017,religious ceremony,Forex Intern,Approved,Zaman/Riddhish
+FXI266,Ahmedabad - COE,Forex Intern,Earned Leave,1,29-03-2017,29-03-2017,6,4,02-02-2017,my brother's engagement,Forex Intern,Approved,Zaman/Riddhish
+FXI266,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,30-03-2017,30-03-2017,6,4,02-02-2017,my brother's engagement,Forex Intern,Approved,Zaman/Riddhish
+FXI266,Ahmedabad - COE,Forex Intern,Earned Leave,1,05-04-2017,05-04-2017,6,4,02-02-2017,collage examination,Forex Intern,Approved,Zaman/Riddhish
+FXI266,Ahmedabad - COE,Forex Intern,Leave Without Pay,3,05-04-2017,07-04-2017,6,4,02-02-2017,collage examination.,Forex Intern,Approved,Kain Tain
+FXI267,Ahmedabad - COE,Forex Intern,Earned Leave,1,10-02-2017,10-02-2017,3,3,06-02-2017,Doctor's Appontment (on that day i haven't got email and credential.,Forex Intern,Rejected,Zaman
+FXI267,Ahmedabad - COE,Forex Intern,Earned Leave,1,10-04-2017,10-04-2017,3,3,06-02-2017,casual leave,Forex Intern,Approved,Zaman/Riddhish
+FXI267,Ahmedabad - COE,Forex Intern,Earned Leave,1,09-05-2017,09-05-2017,3,3,06-02-2017, cousin's marriage  ,Forex Intern,Approved,Zaman/Riddhish
+FXI268,Ahmedabad - COE,Forex Intern,Earned Leave,1,27-02-2017,27-02-2017,17,13,06-02-2017,"I am in the final year of engineering (LDRP-ITR), so I have to attend my Mid Term Examination.",Forex Intern,Approved,Zaman/Riddhish
+FXI268,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,28-02-2017,28-02-2017,17,13,06-02-2017,"I am in the final year of engineering (LDRP-ITR), so I have to attend my Mid Term Examination.",Forex Intern,Approved,Zaman/Riddhish
+FXI268,Ahmedabad - COE,Forex Intern,Earned Leave,1,16-03-2017,16-03-2017,17,13,06-02-2017,College Submission,Forex Intern,Approved,Zaman/Riddhish
+FXI268,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,17-03-2017,17-03-2017,17,13,06-02-2017,College Submission,Forex Intern,Approved,Zaman/Riddhish
+FXI268,Ahmedabad - COE,Forex Intern,Leave Without Pay,3,20-03-2017,22-03-2017,17,13,06-02-2017,Final Year Project Preparation,Forex Intern,Approved,Kain Tain
+FXI268,Ahmedabad - COE,Forex Intern,Earned Leave,0.5,24-03-2017,24-03-2017,17,13,06-02-2017,Doctor's Appointment  ,Forex Intern,Approved,Zaman/Riddhish
+FXI268,Ahmedabad - COE,Forex Intern,Earned Leave,1,07-04-2017,07-04-2017,17,13,06-02-2017,As we are informed to submit our final year project tomorrow (7th April).,Forex Intern,Approved,Zaman/Riddhish
+FXI268,Ahmedabad - COE,Forex Intern,Leave Without Pay,2.5,11-04-2017,13-04-2017,17,13,06-02-2017,University Submissions.,Forex Intern,Approved,Kain Tain
+FXI268,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,17-04-2017,17-04-2017,17,13,06-02-2017,I got eye injection so I was not well enough to come.,Forex Intern,Approved,Zaman/Riddhish
+FXI268,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,17-04-2017,17-04-2017,17,13,06-02-2017,Casual leave,Forex Intern,Rejected,Zaman/Riddhish
+FXI268,Ahmedabad - COE,Forex Intern,Earned Leave,1,18-04-2017,18-04-2017,17,13,06-02-2017,University written exam.,Forex Intern,Approved,Zaman/Riddhish
+FXI268,Ahmedabad - COE,Forex Intern,Leave Without Pay,2,26-04-2017,27-04-2017,17,13,06-02-2017,External vivas ,Forex Intern,Approved,Zaman/Riddhish
+FXI268,Ahmedabad - COE,Forex Intern,Earned Leave,1,23-05-2017,23-05-2017,17,13,06-02-2017,Eye check up appointment,Forex Intern,Approved,Zaman/Riddhish
+FXI269,Ahmedabad - COE,Forex Intern,Earned Leave,0.5,01-03-2017,01-03-2017,5.5,6,06-02-2017,EXAM,Forex Intern,Approved,Zaman/Riddhish
+FXI269,Ahmedabad - COE,Forex Intern,Earned Leave,1,02-05-2017,02-05-2017,5.5,6,06-02-2017,M.com exam,Forex Intern,Approved,Zaman/Riddhish
+FXI269,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,04-05-2017,04-05-2017,5.5,6,06-02-2017,M.com exams.,Forex Intern,Approved,Zaman/Riddhish
+FXI269,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,09-05-2017,09-05-2017,5.5,6,06-02-2017,M.com exams.,Forex Intern,Approved,Zaman/Riddhish
+FXI269,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,11-05-2017,11-05-2017,5.5,6,06-02-2017,M.com exams.,Forex Intern,Approved,Zaman/Riddhish
+FXI269,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,15-05-2017,15-05-2017,5.5,6,06-02-2017,M.com exams.,Forex Intern,Approved,Zaman/Riddhish
+FXI270,Ahmedabad - COE,Forex Intern,Leave Without Pay,2,08-03-2017,09-03-2017,16.5,13,06-02-2017,"On both days we have a visit at Adani port, Mundra from our collage and it is very important so we have to go there. Hence we can not come to company. So please accept the leave for the said period.",Forex Intern,Approved,Zaman/Riddhish
+FXI270,Ahmedabad - COE,Forex Intern,Leave Without Pay,0.5,20-03-2017,20-03-2017,16.5,13,06-02-2017,There will be presentation in our collage on 20th march. So I have to go there. Hence I am taking half leave.,Forex Intern,Approved,Zaman/Riddhish
+FXI270,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,27-03-2017,27-03-2017,16.5,13,06-02-2017,There will be project fair in our collage on 27th march. So I have to go there. Hence I am taking leave.,Forex Intern,Approved,Zaman/Riddhish
+FXI270,Ahmedabad - COE,Forex Intern,Leave Without Pay,3,07-04-2017,11-04-2017,16.5,13,06-02-2017,Mid-sem Examination,Forex Intern,Approved,Kain Tain
+FXI270,Ahmedabad - COE,Forex Intern,Earned Leave,0.5,20-04-2017,20-04-2017,16.5,13,06-02-2017,There will be project submission in our collage on 20th april. So I have to go there. Hence I am taking half leave.,Forex Intern,Approved,Zaman/Riddhish
+FXI270,Ahmedabad - COE,Forex Intern,Earned Leave,0.5,24-04-2017,24-04-2017,16.5,13,06-02-2017,To collect the hall tickets.,Forex Intern,Approved,Zaman/Riddhish
+FXI270,Ahmedabad - COE,Forex Intern,Leave Without Pay,4,02-05-2017,05-05-2017,16.5,13,06-02-2017,University Exam.,Forex Intern,Approved,Kain Tain
+FXI270,Ahmedabad - COE,Forex Intern,Earned Leave,0.5,15-05-2017,15-05-2017,16.5,13,06-02-2017,External viva.,Forex Intern,Approved,Zaman/Riddhish
+FXI270,Ahmedabad - COE,Forex Intern,Earned Leave,1,16-05-2017,16-05-2017,16.5,13,06-02-2017,External viva.,Forex Intern,Approved,Zaman/Riddhish
+FXI270,Ahmedabad - COE,Forex Intern,Earned Leave,0.5,19-05-2017,19-05-2017,16.5,13,06-02-2017,Farewell event at college.,Forex Intern,Approved,Zaman/Riddhish
+FXI270,Ahmedabad - COE,Forex Intern,Earned Leave,0.5,22-05-2017,22-05-2017,16.5,13,06-02-2017,Preparation of university exam.,Forex Intern,Approved,Zaman/Riddhish
+FXI270,Ahmedabad - COE,Forex Intern,Earned Leave,0.5,23-05-2017,23-05-2017,16.5,13,06-02-2017,Preparation of university exam.,Forex Intern,Approved,Zaman/Riddhish
+FXI270,Ahmedabad - COE,Forex Intern,Leave Without Pay,2,24-05-2017,25-05-2017,16.5,13,06-02-2017,University exam.,Forex Intern,Approved,Zaman/Riddhish
+FXI272,Ahmedabad - COE,Forex Intern,Earned Leave,1,22-03-2017,22-03-2017,10.5,7,08-02-2017,sick leave,Forex Intern,Approved,Zaman/Riddhish
+FXI272,Ahmedabad - COE,Forex Intern,Leave Without Pay,2,06-04-2017,07-04-2017,10.5,7,08-02-2017,sick leave,Forex Intern,Approved,Zaman/Riddhish
+FXI272,Ahmedabad - COE,Forex Intern,Leave Without Pay,5,10-04-2017,14-04-2017,10.5,7,08-02-2017,exam,Forex Intern,Approved,Kain Tain
+FXI272,Ahmedabad - COE,Forex Intern,Leave Without Pay,0.5,21-04-2017,21-04-2017,10.5,7,08-02-2017,moot court,Forex Intern,Approved,Zaman/Riddhish
+FXI272,Ahmedabad - COE,Forex Intern,Earned Leave,1,08-05-2017,08-05-2017,10.5,7,08-02-2017,family are there for some reason,Forex Intern,Approved,Zaman/Riddhish
+FXI272,Ahmedabad - COE,Forex Intern,Earned Leave,0.5,22-05-2017,22-05-2017,10.5,7,08-02-2017,health issue,Forex Intern,Approved,Zaman/Riddhish
+FXI272,Ahmedabad - COE,Forex Intern,Earned Leave,0.5,24-05-2017,24-05-2017,10.5,7,08-02-2017,casual leave,Forex Intern,Approved,Zaman/Riddhish
+FXI273,Ahmedabad - COE,Forex Intern,Leave Without Pay,0.5,16-03-2017,16-03-2017,20,16,09-02-2017,Project fair in gtu tech fest in collage,Forex Intern,Approved,Zaman/Riddhish
+FXI273,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,20-03-2017,20-03-2017,20,16,09-02-2017,Need to be there for my final year Project Presentation..!,Forex Intern,Approved,Zaman/Riddhish
+FXI273,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,22-03-2017,22-03-2017,20,16,09-02-2017,final Project presentation in collage,Forex Intern,Approved,Zaman/Riddhish
+FXI273,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,27-03-2017,27-03-2017,20,16,09-02-2017,For final project fair in collage,Forex Intern,Approved,Zaman/Riddhish
+FXI273,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,30-03-2017,30-03-2017,20,16,09-02-2017,have to go for gtu fees in collage,Forex Intern,Approved,Zaman/Riddhish
+FXI273,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,04-04-2017,04-04-2017,20,16,09-02-2017,Ala Presentation in collage,Forex Intern,Approved,Zaman/Riddhish
+FXI273,Ahmedabad - COE,Forex Intern,Leave Without Pay,2,06-04-2017,07-04-2017,20,16,09-02-2017,Internal Examination in collage,Forex Intern,Approved,Zaman/Riddhish
+FXI273,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,12-04-2017,12-04-2017,20,16,09-02-2017,Class test-2 in collage,Forex Intern,Approved,Zaman/Riddhish
+FXI273,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,17-04-2017,17-04-2017,20,16,09-02-2017,Subject submission,Forex Intern,Rejected,Zaman/Riddhish
+FXI273,Ahmedabad - COE,Forex Intern,Earned Leave,0.5,18-04-2017,18-04-2017,20,16,09-02-2017,Project submission,Forex Intern,Approved,Zaman/Riddhish
+FXI273,Ahmedabad - COE,Forex Intern,Leave Without Pay,0.5,24-04-2017,24-04-2017,20,16,09-02-2017,feeling not well ..!,Forex Intern,Approved,Zaman/Riddhish
+FXI273,Ahmedabad - COE,Forex Intern,Leave Without Pay,3,26-04-2017,28-04-2017,20,16,09-02-2017,final gtu Examination ,Forex Intern,Approved,Kain Tain
+FXI273,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,02-05-2017,02-05-2017,20,16,09-02-2017,Final gtu examination,Forex Intern,Approved,Zaman/Riddhish
+FXI273,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,08-05-2017,08-05-2017,20,16,09-02-2017,Today is my engagement.,Forex Intern,Approved,Zaman/Riddhish
+FXI273,Ahmedabad - COE,Forex Intern,Leave Without Pay,4,15-05-2017,18-05-2017,20,16,09-02-2017,external viva,Forex Intern,Approved,Kain Tain
+FXI273,Ahmedabad - COE,Forex Intern,Leave Without Pay,0.5,19-05-2017,19-05-2017,20,16,09-02-2017,there is problem in my internal exam present ..! to solve this problem i have to be there to my subject guide.,Forex Intern,Approved,Zaman/Riddhish
+FXI274,Ahmedabad - COE,Forex Intern,Leave Without Pay,2,23-02-2017,24-02-2017,17,12,09-02-2017,My Brother marriage,Forex Intern,Approved,Zaman/Riddhish
+FXI274,Ahmedabad - COE,Forex Intern,Earned Leave,1,27-02-2017,27-02-2017,17,12,09-02-2017,My Brothe Marrage,Forex Intern,Rejected,Zaman/Riddhish
+FXI274,Ahmedabad - COE,Forex Intern,Leave Without Pay,0.5,20-03-2017,20-03-2017,17,12,09-02-2017,university form fillup,Forex Intern,Approved,Zaman/Riddhish
+FXI274,Ahmedabad - COE,Forex Intern,Earned Leave,0.5,12-04-2017,12-04-2017,17,12,09-02-2017,Project Submission,Forex Intern,Approved,Zaman/Riddhish
+FXI274,Ahmedabad - COE,Forex Intern,Leave Without Pay,2,17-04-2017,18-04-2017,17,12,09-02-2017,Exam,Forex Intern,Approved,Zaman/Riddhish
+FXI274,Ahmedabad - COE,Forex Intern,Earned Leave,1,19-04-2017,19-04-2017,17,12,09-02-2017,Exam,Forex Intern,Approved,Zaman/Riddhish
+FXI274,Ahmedabad - COE,Forex Intern,Earned Leave,1,20-04-2017,20-04-2017,17,12,09-02-2017,Exam,Forex Intern,Approved,Zaman/Riddhish
+FXI274,Ahmedabad - COE,Forex Intern,Leave Without Pay,2,25-04-2017,26-04-2017,17,12,09-02-2017,Brother Marrige,Forex Intern,Approved,Zaman/Riddhish
+FXI274,Ahmedabad - COE,Forex Intern,Leave Without Pay,2,27-04-2017,28-04-2017,17,12,09-02-2017,Brother Marrige,Forex Intern,Approved,Zaman/Riddhish
+FXI274,Ahmedabad - COE,Forex Intern,Leave Without Pay,2,01-05-2017,02-05-2017,17,12,09-02-2017,Exam,Forex Intern,Approved,Zaman/Riddhish
+FXI274,Ahmedabad - COE,Forex Intern,Leave Without Pay,2,03-05-2017,04-05-2017,17,12,09-02-2017,Exam,Forex Intern,Approved,Zaman/Riddhish
+FXI274,Ahmedabad - COE,Forex Intern,Earned Leave,1,05-05-2017,05-05-2017,17,12,09-02-2017,Exam,Forex Intern,Approved,Zaman/Riddhish
+FXI275,Ahmedabad - COE,Forex Intern,Earned Leave,1,27-02-2017,27-02-2017,11.5,9,09-02-2017,I am an engineering student and I have mid-semester exam on this date. ,Forex Intern,Approved,Zaman/Riddhish
+FXI275,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,28-02-2017,28-02-2017,11.5,9,09-02-2017,I am an engineering student and I have mid-semester exam on this date.,Forex Intern,Approved,Zaman/Riddhish
+FXI275,Ahmedabad - COE,Forex Intern,Earned Leave,1,31-03-2017,31-03-2017,11.5,9,09-02-2017,casual leave,Forex Intern,Approved,Zaman/Riddhish
+FXI275,Ahmedabad - COE,Forex Intern,Earned Leave,1,05-04-2017,05-04-2017,11.5,9,09-02-2017,Project preparation,Forex Intern,Rejected,Zaman/Riddhish
+FXI275,Ahmedabad - COE,Forex Intern,Leave Without Pay,2.5,11-04-2017,13-04-2017,11.5,9,09-02-2017,Submissions.,Forex Intern,Approved,Kain Tain
+FXI275,Ahmedabad - COE,Forex Intern,Earned Leave,1,17-04-2017,17-04-2017,11.5,9,09-02-2017,Cousin's Engagement.,Forex Intern,Approved,Zaman/Riddhish
+FXI275,Ahmedabad - COE,Forex Intern,Earned Leave,1,17-04-2017,17-04-2017,11.5,9,09-02-2017,Causal leave,Forex Intern,Rejected,Zaman/Riddhish
+FXI275,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,18-04-2017,18-04-2017,11.5,9,09-02-2017,University exams.,Forex Intern,Approved,Zaman/Riddhish
+FXI275,Ahmedabad - COE,Forex Intern,Leave Without Pay,2,26-04-2017,27-04-2017,11.5,9,09-02-2017,External vivas.,Forex Intern,Approved,Zaman/Riddhish
+FXI277,Ahmedabad - COE,Forex Intern,Earned Leave,1,08-03-2017,08-03-2017,11,8,13-02-2017,Industrial visit organize by collage campus (GIT),Forex Intern,Approved,Zaman/Riddhish
+FXI277,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,09-03-2017,09-03-2017,11,8,13-02-2017,Industrial visit organize by collage campus (GIT),Forex Intern,Approved,Zaman/Riddhish
+FXI277,Ahmedabad - COE,Forex Intern,Earned Leave,1,07-04-2017,07-04-2017,11,8,13-02-2017,Midterm Exam Organized by GIT campus,Forex Intern,Approved,Zaman/Riddhish
+FXI277,Ahmedabad - COE,Forex Intern,Earned Leave,1,11-04-2017,11-04-2017,11,8,13-02-2017,Going to out of city to attend the family function,Forex Intern,Approved,Zaman/Riddhish
+FXI277,Ahmedabad - COE,Forex Intern,Earned Leave,1,27-04-2017,27-04-2017,11,8,13-02-2017,I am not well. I am suffering form fever.,Forex Intern,Approved,Zaman/Riddhish
+FXI277,Ahmedabad - COE,Forex Intern,Leave Without Pay,4,02-05-2017,05-05-2017,11,8,13-02-2017,University's Exam (GTU),Forex Intern,Approved,Kain Tain
+FXI277,Ahmedabad - COE,Forex Intern,Earned Leave,1,18-05-2017,18-05-2017,11,8,13-02-2017,I need to go out of city for personal reason,Forex Intern,Approved,Zaman/Riddhish
+FXI277,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,23-05-2017,23-05-2017,11,8,13-02-2017,"I need to go for eye check up,",Forex Intern,Approved,Zaman/Riddhish
+FXI278,Ahmedabad - COE,Forex Intern,Earned Leave,1,01-03-2017,01-03-2017,14,16,13-02-2017,internal college exams,Forex Intern,Approved,Zaman/Riddhish
+FXI278,Ahmedabad - COE,Forex Intern,Earned Leave,1,01-03-2017,01-03-2017,14,16,13-02-2017,College Internal Exams,Forex Intern,Rejected,Zaman/Riddhish
+FXI278,Ahmedabad - COE,Forex Intern,Leave Without Pay,2,02-03-2017,03-03-2017,14,16,13-02-2017,College Internal exams,Forex Intern,Approved,Zaman/Riddhish
+FXI278,Ahmedabad - COE,Forex Intern,Leave Without Pay,2,02-03-2017,03-03-2017,14,16,13-02-2017,internal college exams,Forex Intern,Approved,Zaman/Riddhish
+FXI278,Ahmedabad - COE,Forex Intern,Earned Leave,0.5,10-04-2017,10-04-2017,14,16,13-02-2017,College Submission,Forex Intern,Rejected,Zaman/Riddhish
+FXI278,Ahmedabad - COE,Forex Intern,Earned Leave,0.5,13-04-2017,13-04-2017,14,16,13-02-2017,college work,Forex Intern,Approved,Zaman/Riddhish
+FXI278,Ahmedabad - COE,Forex Intern,Earned Leave,1,17-04-2017,17-04-2017,14,16,13-02-2017,college work,Forex Intern,Rejected,Zaman/Riddhish
+FXI278,Ahmedabad - COE,Forex Intern,Earned Leave,0.5,18-04-2017,18-04-2017,14,16,13-02-2017,My project is in exhibition and i am the host for that. ,Forex Intern,Approved,Zaman/Riddhish
+FXI278,Ahmedabad - COE,Forex Intern,Earned Leave,0.5,19-04-2017,19-04-2017,14,16,13-02-2017,My project is in exhibition and i am the host for that,Forex Intern,Approved,Zaman/Riddhish
+FXI278,Ahmedabad - COE,Forex Intern,Earned Leave,1,28-04-2017,28-04-2017,14,16,13-02-2017,collecting hall ticket for university exams,Forex Intern,Approved,Zaman/Riddhish
+FXI278,Ahmedabad - COE,Forex Intern,Earned Leave,1,03-05-2017,03-05-2017,14,16,13-02-2017,University Exam,Forex Intern,Approved,Zaman/Riddhish
+FXI278,Ahmedabad - COE,Forex Intern,Earned Leave,0.5,04-05-2017,04-05-2017,14,16,13-02-2017,University exam,Forex Intern,Approved,Zaman/Riddhish
+FXI278,Ahmedabad - COE,Forex Intern,Earned Leave,1,05-05-2017,05-05-2017,14,16,13-02-2017,University Exam,Forex Intern,Approved,Zaman/Riddhish
+FXI278,Ahmedabad - COE,Forex Intern,Earned Leave,0.5,16-05-2017,16-05-2017,14,16,13-02-2017,external viva,Forex Intern,Approved,Zaman/Riddhish
+FXI278,Ahmedabad - COE,Forex Intern,Earned Leave,0.5,17-05-2017,17-05-2017,14,16,13-02-2017,external viva,Forex Intern,Approved,Zaman/Riddhish
+FXI278,Ahmedabad - COE,Forex Intern,Earned Leave,0.5,18-05-2017,18-05-2017,14,16,13-02-2017,external viva,Forex Intern,Approved,Zaman/Riddhish
+FXI279,Ahmedabad - COE,Forex Intern,Earned Leave,1,07-03-2017,07-03-2017,13.5,12,09-02-2017, I am engineering student and my last semester is pursuing so i have a internal exam.,Forex Intern,Approved,Zaman/Riddhish
+FXI279,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,08-03-2017,08-03-2017,13.5,12,09-02-2017, I am engineering student and my last semester is pursuing so i have a internal exam.,Forex Intern,Approved,Zaman/Riddhish
+FXI279,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,16-03-2017,16-03-2017,13.5,12,09-02-2017,Project Presentation in College because i m engineering student and my last semester is pursuing.,Forex Intern,Approved,Zaman/Riddhish
+FXI279,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,17-03-2017,17-03-2017,13.5,12,09-02-2017,Project Presentation in College because i m engineering student and my last semester is pursuing.,Forex Intern,Approved,Zaman/Riddhish
+FXI279,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,27-03-2017,27-03-2017,13.5,12,09-02-2017,Poster project presentation,Forex Intern,Approved,Zaman/Riddhish
+FXI279,Ahmedabad - COE,Forex Intern,Earned Leave,1,10-04-2017,10-04-2017,13.5,12,09-02-2017,I am engineering student and my last semester pursuing so I have Submission in my college. ,Forex Intern,Approved,Zaman/Riddhish
+FXI279,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,11-04-2017,11-04-2017,13.5,12,09-02-2017,I am engineering student and my last semester pursuing so I have Submission in my college. ,Forex Intern,Rejected,Zaman/Riddhish
+FXI279,Ahmedabad - COE,Forex Intern,Earned Leave,0.5,17-04-2017,17-04-2017,13.5,12,09-02-2017,I was out of state and not able to reach on time due to transportation issue.,Forex Intern,Approved,Zaman/Riddhish
+FXI279,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,27-04-2017,27-04-2017,13.5,12,09-02-2017,Sir I am not feeling good so today I am not coming office so please grant me one day leave.,Forex Intern,Rejected,Zaman/Riddhish
+FXI279,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,28-04-2017,28-04-2017,13.5,12,09-02-2017,Examination will be start from 29 April 2017 and my college center is in Anand.,Forex Intern,Approved,Zaman/Riddhish
+FXI279,Ahmedabad - COE,Forex Intern,Earned Leave,1,02-05-2017,02-05-2017,13.5,12,09-02-2017,My Last semester is pursuing and exam was on 02 may 2017.,Forex Intern,Approved,Zaman/Riddhish
+FXI279,Ahmedabad - COE,Forex Intern,Leave Without Pay,3,17-05-2017,19-05-2017,13.5,12,09-02-2017,I am Engineering student and my last semester pursuing and I have external viva from 17 May to 19 May 2017.,Forex Intern,Approved,Kain Tain
+FXI281,Ahmedabad - COE,Forex Intern,Leave Without Pay,5,27-02-2017,03-03-2017,18,7,15-02-2017,mid semester examination,Forex Intern,Approved,Kain Tain
+FXI281,Ahmedabad - COE,Forex Intern,Leave Without Pay,0.5,27-03-2017,27-03-2017,18,7,15-02-2017,Engineering. project,Forex Intern,Approved,Zaman/Riddhish
+FXI281,Ahmedabad - COE,Forex Intern,Earned Leave,0.5,03-04-2017,03-04-2017,18,7,15-02-2017,Project work,Forex Intern,Rejected,Zaman/Riddhish
+FXI281,Ahmedabad - COE,Forex Intern,Leave Without Pay,2.5,11-04-2017,13-04-2017,18,7,15-02-2017,submissions,Forex Intern,Approved,Kain Tain
+FXI281,Ahmedabad - COE,Forex Intern,Leave Without Pay,3,11-04-2017,13-04-2017,18,7,15-02-2017,engineering submissions,Forex Intern,Rejected,Kain Tain
+FXI281,Ahmedabad - COE,Forex Intern,Leave Without Pay,4,25-04-2017,28-04-2017,18,7,15-02-2017,applying leaves for my final examination.,Forex Intern,Approved,Kain Tain
+FXI281,Ahmedabad - COE,Forex Intern,Leave Without Pay,2.5,16-05-2017,18-05-2017,18,7,15-02-2017,applying leaves for external submissions of engineering.,Forex Intern,Approved,Kain Tain
+FXI282,Ahmedabad - COE,Forex Intern,Leave Without Pay,3.5,20-03-2017,23-03-2017,11,7,18-02-2017,Internal exam in college,Forex Intern,Approved,Kain Tain
+FXI282,Ahmedabad - COE,Forex Intern,Earned Leave,1,10-04-2017,10-04-2017,11,7,18-02-2017,going to the Brother's  engagement ,Forex Intern,Approved,Zaman/Riddhish
+FXI282,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,11-04-2017,11-04-2017,11,7,18-02-2017,"My health is not good today , kindly approve my leave.",Forex Intern,Approved,Zaman/Riddhish
+FXI282,Ahmedabad - COE,Forex Intern,Leave Without Pay,4,24-04-2017,27-04-2017,11,7,18-02-2017,"Internal exam in college , so kindly approve my leave.",Forex Intern,Approved,Kain Tain
+FXI282,Ahmedabad - COE,Forex Intern,Leave Without Pay,0.5,04-05-2017,04-05-2017,11,7,18-02-2017,"I will going to the college, because today is last date sing my project certificate. Kindly approve my leave immediately.",Forex Intern,Approved,Zaman/Riddhish
+FXI282,Ahmedabad - COE,Forex Intern,Leave Without Pay,0.5,19-05-2017,19-05-2017,11,7,18-02-2017,"Going to the external viva of GTU university, kindly approve my leave sir.",Forex Intern,Approved,Zaman/Riddhish
+FXI282,Ahmedabad - COE,Forex Intern,Leave Without Pay,0.5,23-05-2017,23-05-2017,11,7,18-02-2017,Going to the external viva of GTU university so kindly approve my leave sir.,Forex Intern,Approved,Zaman/Riddhish
+FXI283,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,27-02-2017,27-02-2017,6.5,6,18-02-2017,mid sem exams,Forex Intern,Approved,Zaman/Riddhish
+FXI283,Ahmedabad - COE,Forex Intern,Earned Leave,1,28-02-2017,28-02-2017,6.5,6,18-02-2017,for mid semester exam,Forex Intern,Approved,Zaman/Riddhish
+FXI283,Ahmedabad - COE,Forex Intern,Leave Without Pay,2,01-03-2017,02-03-2017,6.5,6,18-02-2017,mid sem examination,Forex Intern,Approved,Zaman/Riddhish
+FXI283,Ahmedabad - COE,Forex Intern,Leave Without Pay,0.5,14-03-2017,14-03-2017,6.5,6,18-02-2017,mid term submission,Forex Intern,Approved,Zaman/Riddhish
+FXI283,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,18-04-2017,18-04-2017,6.5,6,18-02-2017,for university examination,Forex Intern,Approved,Zaman/Riddhish
+FXI283,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,20-04-2017,20-04-2017,6.5,6,18-02-2017,for university examination,Forex Intern,Approved,Zaman/Riddhish
+FXI284,Ahmedabad - COE,Forex Intern,Earned Leave,0.5,31-03-2017,31-03-2017,20.5,8,21-02-2017,Project VIVA,Forex Intern,Approved,Zaman/Riddhish
+FXI284,Ahmedabad - COE,Forex Intern,Leave Without Pay,0.5,03-04-2017,03-04-2017,20.5,8,21-02-2017,CP Project Submission,Forex Intern,Approved,Zaman/Riddhish
+FXI284,Ahmedabad - COE,Forex Intern,Earned Leave,1,04-04-2017,04-04-2017,20.5,8,21-02-2017,MBA internal examination,Forex Intern,Approved,Zaman/Riddhish
+FXI284,Ahmedabad - COE,Forex Intern,Leave Without Pay,5,05-04-2017,11-04-2017,20.5,8,21-02-2017,MBA Internal Examination,Forex Intern,Approved,Kain Tain
+FXI284,Ahmedabad - COE,Forex Intern,Leave Without Pay,7,05-04-2017,11-04-2017,20.5,8,21-02-2017,MBA internal examination,Forex Intern,Rejected,Kain Tain
+FXI284,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,21-04-2017,21-04-2017,20.5,8,21-02-2017,Internal Components Submission,Forex Intern,Rejected,Zaman/Riddhish
+FXI284,Ahmedabad - COE,Forex Intern,Leave Without Pay,5,24-04-2017,28-04-2017,20.5,8,21-02-2017,MBA Final Examination ,Forex Intern,Approved,Kain Tain
+FXI284,Ahmedabad - COE,Forex Intern,Earned Leave,0.5,05-05-2017,05-05-2017,20.5,8,21-02-2017,Remedial Exam,Forex Intern,Approved,Zaman/Riddhish
+FXI285,Ahmedabad - COE,Forex Intern,Earned Leave,0.5,24-03-2017,24-03-2017,1.5,2,20-02-2017,for some personal work,Forex Intern,Approved,Zaman/Riddhish
+FXI285,Ahmedabad - COE,Forex Intern,Earned Leave,1,10-05-2017,10-05-2017,1.5,2,20-02-2017,I had fever,Forex Intern,Approved,Zaman/Riddhish
+FXI286,Ahmedabad - COE,Forex Intern,Earned Leave,0.5,27-03-2017,27-03-2017,17,13,22-02-2017,Project Presentation,Forex Intern,Approved,Zaman/Riddhish
+FXI286,Ahmedabad - COE,Forex Intern,Earned Leave,1,03-04-2017,03-04-2017,17,13,22-02-2017,Internal Exam,Forex Intern,Approved,Zaman/Riddhish
+FXI286,Ahmedabad - COE,Forex Intern,Earned Leave,0.5,04-04-2017,04-04-2017,17,13,22-02-2017,Internal Exam,Forex Intern,Approved,Zaman/Riddhish
+FXI286,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,06-04-2017,06-04-2017,17,13,22-02-2017,Internal Exam,Forex Intern,Approved,Zaman/Riddhish
+FXI286,Ahmedabad - COE,Forex Intern,Leave Without Pay,0.5,07-04-2017,07-04-2017,17,13,22-02-2017,Internal Exam,Forex Intern,Approved,Zaman/Riddhish
+FXI286,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,10-04-2017,10-04-2017,17,13,22-02-2017,out of station,Forex Intern,Approved,Zaman/Riddhish
+FXI286,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,13-04-2017,13-04-2017,17,13,22-02-2017,Mid_Semester(Exam),Forex Intern,Approved,Zaman/Riddhish
+FXI286,Ahmedabad - COE,Forex Intern,Leave Without Pay,0.5,14-04-2017,14-04-2017,17,13,22-02-2017,Mid_semester(Exam),Forex Intern,Approved,Zaman/Riddhish
+FXI286,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,18-04-2017,18-04-2017,17,13,22-02-2017,Mid_semester(EXAM),Forex Intern,Approved,Zaman/Riddhish
+FXI286,Ahmedabad - COE,Forex Intern,Leave Without Pay,3,26-04-2017,28-04-2017,17,13,22-02-2017,Final_Exam,Forex Intern,Approved,Kain Tain
+FXI286,Ahmedabad - COE,Forex Intern,Leave Without Pay,4,02-05-2017,05-05-2017,17,13,22-02-2017,"Final_Exam and Puja,vidhi Procedure(Father Death)",Forex Intern,Approved,Kain Tain
+FXI286,Ahmedabad - COE,Forex Intern,Leave Without Pay,2,15-05-2017,16-05-2017,17,13,22-02-2017,External_Viva,Forex Intern,Approved,Zaman/Riddhish
+FXI286,Ahmedabad - COE,Forex Intern,Earned Leave,1,17-05-2017,17-05-2017,17,13,22-02-2017,External_Viva,Forex Intern,Approved,Zaman/Riddhish
+FXI287,Ahmedabad - COE,Forex Intern,Leave Without Pay,3.5,20-03-2017,23-03-2017,12,9,21-02-2017,EXAMS,Forex Intern,Approved,Kain Tain
+FXI287,Ahmedabad - COE,Forex Intern,Earned Leave,1,31-03-2017,31-03-2017,12,9,21-02-2017,personal work,Forex Intern,Approved,Zaman/Riddhish
+FXI287,Ahmedabad - COE,Forex Intern,Earned Leave,0.5,06-04-2017,06-04-2017,12,9,21-02-2017,submission,Forex Intern,Approved,Zaman/Riddhish
+FXI287,Ahmedabad - COE,Forex Intern,Leave Without Pay,4,24-04-2017,27-04-2017,12,9,21-02-2017,EXAM,Forex Intern,Approved,Kain Tain
+FXI287,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,28-04-2017,28-04-2017,12,9,21-02-2017,Family function (sister Engagement),Forex Intern,Approved,Zaman/Riddhish
+FXI287,Ahmedabad - COE,Forex Intern,Earned Leave,0.5,05-05-2017,05-05-2017,12,9,21-02-2017,Remedial Exam,Forex Intern,Approved,Zaman/Riddhish
+FXI287,Ahmedabad - COE,Forex Intern,Earned Leave,0.5,19-05-2017,19-05-2017,12,9,21-02-2017,External viva,Forex Intern,Approved,Zaman/Riddhish
+FXI287,Ahmedabad - COE,Forex Intern,Leave Without Pay,0.5,23-05-2017,23-05-2017,12,9,21-02-2017,external viva (cp),Forex Intern,Approved,Zaman/Riddhish
+FXI287,Ahmedabad - COE,Forex Intern,Leave Without Pay,0.5,23-05-2017,23-05-2017,12,9,21-02-2017,external viva,Forex Intern,Approved,Zaman/Riddhish
+FXI288,Ahmedabad - COE,Forex Intern,Leave Without Pay,0.5,01-03-2017,01-03-2017,8.5,10,23-02-2017,College Submission,Forex Intern,Approved,Zaman/Riddhish
+FXI288,Ahmedabad - COE,Forex Intern,Earned Leave,1,27-03-2017,27-03-2017,8.5,10,23-02-2017,illness,Forex Intern,Approved,Zaman/Riddhish
+FXI288,Ahmedabad - COE,Forex Intern,Leave Without Pay,0.5,07-04-2017,07-04-2017,8.5,10,23-02-2017,college Submission,Forex Intern,Approved,Zaman/Riddhish
+FXI288,Ahmedabad - COE,Forex Intern,Leave Without Pay,3,17-04-2017,19-04-2017,8.5,10,23-02-2017,Cousin`s Wedding Function,Forex Intern,Approved,Kain Tain
+FXI288,Ahmedabad - COE,Forex Intern,Earned Leave,1,20-04-2017,20-04-2017,8.5,10,23-02-2017,illness,Forex Intern,Approved,Zaman/Riddhish
+FXI288,Ahmedabad - COE,Forex Intern,Leave Without Pay,0.5,21-04-2017,21-04-2017,8.5,10,23-02-2017,illness,Forex Intern,Approved,Zaman/Riddhish
+FXI288,Ahmedabad - COE,Forex Intern,Leave Without Pay,0.5,16-05-2017,16-05-2017,8.5,10,23-02-2017,project Meeting,Forex Intern,Approved,Zaman/Riddhish
+FXI288,Ahmedabad - COE,Forex Intern,Earned Leave,0.5,17-05-2017,17-05-2017,8.5,10,23-02-2017,project,Forex Intern,Approved,Zaman/Riddhish
+FXI288,Ahmedabad - COE,Forex Intern,Earned Leave,0.5,18-05-2017,18-05-2017,8.5,10,23-02-2017,college project,Forex Intern,Approved,Zaman/Riddhish
+FXI288,Ahmedabad - COE,Forex Intern,Leave Without Pay,0.5,19-05-2017,19-05-2017,8.5,10,23-02-2017,college project,Forex Intern,Approved,Zaman/Riddhish
+FXI289,Ahmedabad - COE,Forex Intern,Earned Leave,0.5,27-03-2017,27-03-2017,15,14,24-02-2017,Project Presentation at LJIET,Forex Intern,Approved,Zaman/Riddhish
+FXI289,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,03-04-2017,03-04-2017,15,14,24-02-2017,Exam ,Forex Intern,Approved,Zaman/Riddhish
+FXI289,Ahmedabad - COE,Forex Intern,Leave Without Pay,0.5,04-04-2017,04-04-2017,15,14,24-02-2017,Exam,Forex Intern,Approved,Zaman/Riddhish
+FXI289,Ahmedabad - COE,Forex Intern,Earned Leave,1,06-04-2017,06-04-2017,15,14,24-02-2017,Exam,Forex Intern,Approved,Zaman/Riddhish
+FXI289,Ahmedabad - COE,Forex Intern,Earned Leave,0.5,07-04-2017,07-04-2017,15,14,24-02-2017,Exam,Forex Intern,Approved,Zaman/Riddhish
+FXI289,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,12-04-2017,12-04-2017,15,14,24-02-2017,Exam,Forex Intern,Approved,Zaman/Riddhish
+FXI289,Ahmedabad - COE,Forex Intern,Leave Without Pay,0.5,13-04-2017,13-04-2017,15,14,24-02-2017,Exam,Forex Intern,Approved,Zaman/Riddhish
+FXI289,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,17-04-2017,17-04-2017,15,14,24-02-2017,Exam,Forex Intern,Approved,Zaman/Riddhish
+FXI289,Ahmedabad - COE,Forex Intern,Leave Without Pay,0.5,18-04-2017,18-04-2017,15,14,24-02-2017,Exam,Forex Intern,Approved,Zaman/Riddhish
+FXI289,Ahmedabad - COE,Forex Intern,Leave Without Pay,3,26-04-2017,28-04-2017,15,14,24-02-2017,Exam,Forex Intern,Approved,Kain Tain
+FXI289,Ahmedabad - COE,Forex Intern,Leave Without Pay,2,01-05-2017,02-05-2017,15,14,24-02-2017,Exam,Forex Intern,Approved,Zaman/Riddhish
+FXI289,Ahmedabad - COE,Forex Intern,Earned Leave,0.5,08-05-2017,08-05-2017,15,14,24-02-2017,Cousin's engagement,Forex Intern,Approved,Zaman/Riddhish
+FXI289,Ahmedabad - COE,Forex Intern,Leave Without Pay,2,15-05-2017,16-05-2017,15,14,24-02-2017,External Viva,Forex Intern,Approved,Zaman/Riddhish
+FXI289,Ahmedabad - COE,Forex Intern,Earned Leave,1,17-05-2017,17-05-2017,15,14,24-02-2017,External Viva,Forex Intern,Approved,Zaman/Riddhish
+FXI290,Ahmedabad - COE,Forex Intern,Earned Leave,1,28-03-2017,28-03-2017,8,7,24-02-2017,I have presentation in my college.,Forex Intern,Approved,Zaman/Riddhish
+FXI290,Ahmedabad - COE,Forex Intern,Leave Without Pay,4,10-04-2017,13-04-2017,8,7,24-02-2017,Mid term exam in college,Forex Intern,Approved,Kain Tain
+FXI290,Ahmedabad - COE,Forex Intern,Earned Leave,1,05-05-2017,05-05-2017,8,7,24-02-2017,I will go for family function.,Forex Intern,Approved,Zaman/Riddhish
+FXI290,Ahmedabad - COE,Forex Intern,Earned Leave,0.5,19-05-2017,19-05-2017,8,7,24-02-2017,GTU external viva,Forex Intern,Approved,Zaman/Riddhish
+FXI290,Ahmedabad - COE,Forex Intern,Earned Leave,0.5,19-05-2017,19-05-2017,8,7,24-02-2017,External GTU VIVA,Forex Intern,Approved,Zaman/Riddhish
+FXI290,Ahmedabad - COE,Forex Intern,Earned Leave,0.5,23-05-2017,23-05-2017,8,7,24-02-2017,GTU External viva,Forex Intern,Approved,Zaman/Riddhish
+FXI290,Ahmedabad - COE,Forex Intern,Earned Leave,0.5,23-05-2017,23-05-2017,8,7,24-02-2017,Gtu External Viva,Forex Intern,Approved,Zaman/Riddhish
+FXI291,Ahmedabad - COE,Forex Intern,Earned Leave,1,28-03-2017,28-03-2017,11,6,24-02-2017,College Internal VIVA,Forex Intern,Approved,Zaman/Riddhish
+FXI291,Ahmedabad - COE,Forex Intern,Leave Without Pay,2,31-03-2017,03-04-2017,11,6,24-02-2017,Family tour at Sasan gir,Forex Intern,Approved,Zaman/Riddhish
+FXI291,Ahmedabad - COE,Forex Intern,Leave Without Pay,4,10-04-2017,13-04-2017,11,6,24-02-2017,Exam at collage,Forex Intern,Approved,Kain Tain
+FXI291,Ahmedabad - COE,Forex Intern,Leave Without Pay,2,15-05-2017,16-05-2017,11,6,24-02-2017,Family function at village,Forex Intern,Approved,Zaman/Riddhish
+FXI291,Ahmedabad - COE,Forex Intern,Earned Leave,1,19-05-2017,19-05-2017,11,6,24-02-2017,External Viva of Gcsr,Forex Intern,Approved,Zaman/Riddhish
+FXI291,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,23-05-2017,23-05-2017,11,6,24-02-2017,External viva of c.p.,Forex Intern,Approved,Zaman/Riddhish
+FXI297,Ahmedabad - COE,Forex Intern,Earned Leave,0.5,11-05-2017,11-05-2017,5.5,2,02-03-2017,emmargency  messege from home,Forex Intern,Approved,Zaman/Riddhish
+FXI297,Ahmedabad - COE,Forex Intern,Leave Without Pay,5,22-05-2017,26-05-2017,5.5,2,02-03-2017,Family trip which is planned previously than job joning,Forex Intern,Approved,Kain Tain
+FXI300,Ahmedabad - COE,Forex Intern,Earned Leave,1,24-03-2017,24-03-2017,14,16,17-03-2017,due to clg submission,Forex Intern,Approved,Zaman/Riddhish
+FXI300,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,31-03-2017,31-03-2017,14,16,17-03-2017,project fair at clg,Forex Intern,Approved,Zaman/Riddhish
+FXI300,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,06-04-2017,06-04-2017,14,16,17-03-2017,clg submission,Forex Intern,Approved,Zaman/Riddhish
+FXI300,Ahmedabad - COE,Forex Intern,Earned Leave,1,07-04-2017,07-04-2017,14,16,17-03-2017,Clg Exam,Forex Intern,Approved,Zaman/Riddhish
+FXI300,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,17-04-2017,17-04-2017,14,16,17-03-2017,clg submissions,Forex Intern,Rejected,Zaman/Riddhish
+FXI300,Ahmedabad - COE,Forex Intern,Earned Leave,0.5,20-04-2017,20-04-2017,14,16,17-03-2017,Report submission.. i have to go clg.,Forex Intern,Approved,Zaman/Riddhish
+FXI300,Ahmedabad - COE,Forex Intern,Leave Without Pay,0.5,25-04-2017,25-04-2017,14,16,17-03-2017,i had to go to clg for submission work,Forex Intern,Rejected,Zaman/Riddhish
+FXI300,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,26-04-2017,26-04-2017,14,16,17-03-2017,i was not feeling well.,Forex Intern,Approved,Zaman/Riddhish
+FXI300,Ahmedabad - COE,Forex Intern,Leave Without Pay,0.5,27-04-2017,27-04-2017,14,16,17-03-2017,i have to go to clg to collect the hallticket of the Gtu examination ,Forex Intern,Approved,Zaman/Riddhish
+FXI300,Ahmedabad - COE,Forex Intern,Earned Leave,1,28-04-2017,28-04-2017,14,16,17-03-2017,GTU exam,Forex Intern,Approved,Zaman/Riddhish
+FXI300,Ahmedabad - COE,Forex Intern,Earned Leave,1,02-05-2017,02-05-2017,14,16,17-03-2017,GTU exam,Forex Intern,Approved,Zaman/Riddhish
+FXI300,Ahmedabad - COE,Forex Intern,Earned Leave,1,09-05-2017,09-05-2017,14,16,17-03-2017,"i was not well, had fever..",Forex Intern,Approved,Zaman/Riddhish
+FXI300,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,15-05-2017,15-05-2017,14,16,17-03-2017,practical exams,Forex Intern,Approved,Zaman/Riddhish
+FXI300,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,16-05-2017,16-05-2017,14,16,17-03-2017,Practical exams,Forex Intern,Approved,Zaman/Riddhish
+FXI300,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,17-05-2017,17-05-2017,14,16,17-03-2017,practical exams,Forex Intern,Approved,Zaman/Riddhish
+FXI300,Ahmedabad - COE,Forex Intern,Earned Leave,0.5,22-05-2017,22-05-2017,14,16,17-03-2017,i was not feeling well,Forex Intern,Approved,Zaman/Riddhish
+FXI301,Ahmedabad - COE,Forex Intern,Leave Without Pay,4,02-05-2017,05-05-2017,4.5,2,15-03-2017,final exam ,Forex Intern,Approved,Kain Tain
+FXI301,Ahmedabad - COE,Forex Intern,Leave Without Pay,0.5,12-05-2017,12-05-2017,4.5,2,15-03-2017,going to diyodar for family function,Forex Intern,Approved,Zaman/Riddhish
+FXI302,Ahmedabad - COE,Forex Intern,Earned Leave,1,10-04-2017,10-04-2017,10,11,15-03-2017,PROJECT INTERNAL PRESENTATION.,Forex Intern,Rejected,Zaman/Riddhish
+FXI302,Ahmedabad - COE,Forex Intern,Earned Leave,1,17-04-2017,17-04-2017,10,11,15-03-2017,SUBMISSIONS AND SESSION ORGANISED BY COLLEGE.,Forex Intern,Rejected,Zaman/Riddhish
+FXI302,Ahmedabad - COE,Forex Intern,Leave Without Pay,0.5,18-04-2017,18-04-2017,10,11,15-03-2017,SUBMISSIONS,Forex Intern,Approved,Zaman/Riddhish
+FXI302,Ahmedabad - COE,Forex Intern,Earned Leave,1,28-04-2017,28-04-2017,10,11,15-03-2017,COLLECTION OF HALL TICKET.,Forex Intern,Approved,Zaman/Riddhish
+FXI302,Ahmedabad - COE,Forex Intern,Earned Leave,1,03-05-2017,03-05-2017,10,11,15-03-2017,UNIVERSITY EXAMS,Forex Intern,Approved,Zaman/Riddhish
+FXI302,Ahmedabad - COE,Forex Intern,Earned Leave,1,05-05-2017,05-05-2017,10,11,15-03-2017,UNIVERSITY EXAMS,Forex Intern,Approved,Zaman/Riddhish
+FXI302,Ahmedabad - COE,Forex Intern,Earned Leave,1,09-05-2017,09-05-2017,10,11,15-03-2017,PERSONAL REASON.,Forex Intern,Approved,Zaman/Riddhish
+FXI302,Ahmedabad - COE,Forex Intern,Earned Leave,1,15-05-2017,15-05-2017,10,11,15-03-2017,EXTERNAL VIVA,Forex Intern,Approved,Zaman/Riddhish
+FXI302,Ahmedabad - COE,Forex Intern,Earned Leave,1,16-05-2017,16-05-2017,10,11,15-03-2017,EXTERNAL VIVA,Forex Intern,Approved,Zaman/Riddhish
+FXI302,Ahmedabad - COE,Forex Intern,Earned Leave,0.5,17-05-2017,17-05-2017,10,11,15-03-2017,external viva,Forex Intern,Approved,Zaman/Riddhish
+FXI302,Ahmedabad - COE,Forex Intern,Earned Leave,1,25-05-2017,25-05-2017,10,11,15-03-2017,Personal reason,Forex Intern,Approved,Zaman/Riddhish
+FXI303,Ahmedabad - COE,Forex Intern,Earned Leave,1,06-04-2017,06-04-2017,19.5,19,15-03-2017,mid term,Forex Intern,Approved,Zaman/Riddhish
+FXI303,Ahmedabad - COE,Forex Intern,Leave Without Pay,0.5,07-04-2017,07-04-2017,19.5,19,15-03-2017,mid term,Forex Intern,Approved,Zaman/Riddhish
+FXI303,Ahmedabad - COE,Forex Intern,Leave Without Pay,0.5,10-04-2017,10-04-2017,19.5,19,15-03-2017,mid term,Forex Intern,Approved,Zaman/Riddhish
+FXI303,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,12-04-2017,12-04-2017,19.5,19,15-03-2017,mid term,Forex Intern,Approved,Zaman/Riddhish
+FXI303,Ahmedabad - COE,Forex Intern,Leave Without Pay,0.5,13-04-2017,13-04-2017,19.5,19,15-03-2017,mid term,Forex Intern,Approved,Zaman/Riddhish
+FXI303,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,17-04-2017,17-04-2017,19.5,19,15-03-2017,college,Forex Intern,Rejected,Zaman/Riddhish
+FXI303,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,18-04-2017,18-04-2017,19.5,19,15-03-2017,college submission,Forex Intern,Rejected,Zaman/Riddhish
+FXI303,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,25-04-2017,25-04-2017,19.5,19,15-03-2017,project presentation,Forex Intern,Rejected,Zaman/Riddhish
+FXI303,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,26-04-2017,26-04-2017,19.5,19,15-03-2017,university exams,Forex Intern,Approved,Zaman/Riddhish
+FXI303,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,27-04-2017,27-04-2017,19.5,19,15-03-2017,university exams,Forex Intern,Approved,Zaman/Riddhish
+FXI303,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,28-04-2017,28-04-2017,19.5,19,15-03-2017,university exams,Forex Intern,Approved,Zaman/Riddhish
+FXI303,Ahmedabad - COE,Forex Intern,Leave Without Pay,4,02-05-2017,05-05-2017,19.5,19,15-03-2017,university exam,Forex Intern,Approved,Kain Tain
+FXI303,Ahmedabad - COE,Forex Intern,Earned Leave,1,02-05-2017,02-05-2017,19.5,19,15-03-2017,University exams,Forex Intern,Rejected,Zaman/Riddhish
+FXI303,Ahmedabad - COE,Forex Intern,Earned Leave,1,03-05-2017,03-05-2017,19.5,19,15-03-2017,University exams,Forex Intern,Rejected,Zaman/Riddhish
+FXI303,Ahmedabad - COE,Forex Intern,Earned Leave,1,04-05-2017,04-05-2017,19.5,19,15-03-2017,University exams,Forex Intern,Rejected,Zaman/Riddhish
+FXI303,Ahmedabad - COE,Forex Intern,Earned Leave,1,05-05-2017,05-05-2017,19.5,19,15-03-2017,University exams,Forex Intern,Rejected,Zaman/Riddhish
+FXI303,Ahmedabad - COE,Forex Intern,Earned Leave,1,15-05-2017,15-05-2017,19.5,19,15-03-2017,viva ,Forex Intern,Approved,Zaman/Riddhish
+FXI303,Ahmedabad - COE,Forex Intern,Earned Leave,0.5,19-05-2017,19-05-2017,19.5,19,15-03-2017,farewell,Forex Intern,Approved,Zaman/Riddhish
+FXI303,Ahmedabad - COE,Forex Intern,Earned Leave,0.5,22-05-2017,22-05-2017,19.5,19,15-03-2017,doctor,Forex Intern,Approved,Zaman/Riddhish
+FXI304,Ahmedabad - COE,Forex Intern,Leave Without Pay,3,03-04-2017,05-04-2017,7,7,15-03-2017,"admitted in hospital due to  fever and diarrhea, so medical certificate submitted",Forex Intern,Approved,Kain Tain
+FXI304,Ahmedabad - COE,Forex Intern,Earned Leave,1,18-04-2017,18-04-2017,7,7,15-03-2017,project presentation and submissions,Forex Intern,Rejected,Zaman/Riddhish
+FXI304,Ahmedabad - COE,Forex Intern,Earned Leave,0.5,12-05-2017,12-05-2017,7,7,15-03-2017,project work,Forex Intern,Approved,Zaman/Riddhish
+FXI304,Ahmedabad - COE,Forex Intern,Earned Leave,0.5,16-05-2017,16-05-2017,7,7,15-03-2017,external viva,Forex Intern,Approved,Zaman/Riddhish
+FXI304,Ahmedabad - COE,Forex Intern,Earned Leave,1,18-05-2017,18-05-2017,7,7,15-03-2017,external viva,Forex Intern,Approved,Zaman/Riddhish
+FXI304,Ahmedabad - COE,Forex Intern,Earned Leave,0.5,19-05-2017,19-05-2017,7,7,15-03-2017,project work,Forex Intern,Approved,Zaman/Riddhish
+FXI304,Ahmedabad - COE,Forex Intern,Earned Leave,0.5,22-05-2017,22-05-2017,7,7,15-03-2017,external viva,Forex Intern,Approved,Zaman/Riddhish
+FXI305,Ahmedabad - COE,Forex Intern,Earned Leave,1,13-04-2017,13-04-2017,2.5,3,15-03-2017,practical exam and viva in collage,Forex Intern,Approved,Zaman/Riddhish
+FXI305,Ahmedabad - COE,Forex Intern,Earned Leave,1,09-05-2017,09-05-2017,2.5,3,15-03-2017,convocation day,Forex Intern,Approved,Zaman/Riddhish
+FXI305,Ahmedabad - COE,Forex Intern,Earned Leave,0.5,10-05-2017,10-05-2017,2.5,3,15-03-2017,convocation day,Forex Intern,Approved,Zaman/Riddhish
+FXI306,Ahmedabad - COE,Forex Intern,Leave Without Pay,0.5,10-04-2017,10-04-2017,10.5,6,15-03-2017,I want leave for university exams,Forex Intern,Approved,Zaman/Riddhish
+FXI306,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,11-04-2017,11-04-2017,10.5,6,15-03-2017,I want leave for university exams,Forex Intern,Approved,Zaman/Riddhish
+FXI306,Ahmedabad - COE,Forex Intern,Leave Without Pay,6,11-04-2017,18-04-2017,10.5,6,15-03-2017," I want leave on 11,13, and 18 of April  for my University exams .",Forex Intern,Rejected,Kain Tain
+FXI306,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,13-04-2017,13-04-2017,10.5,6,15-03-2017,i want leave for university exam,Forex Intern,Approved,Zaman/Riddhish
+FXI306,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,18-04-2017,18-04-2017,10.5,6,15-03-2017,  I want leave for university exams ,Forex Intern,Approved,Zaman/Riddhish
+FXI306,Ahmedabad - COE,Forex Intern,Earned Leave,1,24-04-2017,24-04-2017,10.5,6,15-03-2017,i want leave for university exam,Forex Intern,Approved,Zaman/Riddhish
+FXI307,Ahmedabad - COE,Forex Intern,Earned Leave,1,18-04-2017,18-04-2017,10,6,15-03-2017,My health was not well so i could not come to the office at that day.,Forex Intern,Approved,Zaman/Riddhish
+FXI307,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,21-04-2017,21-04-2017,10,6,15-03-2017,I have a presentation and viva at college and sir i have to also submit pending projects and assignments so i cant come. ,Forex Intern,Rejected,Zaman/Riddhish
+FXI307,Ahmedabad - COE,Forex Intern,Leave Without Pay,5,24-04-2017,28-04-2017,10,6,15-03-2017,Final Exams.,Forex Intern,Approved,Kain Tain
+FXI307,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,02-05-2017,02-05-2017,10,6,15-03-2017,I have a remedial exam in college.,Forex Intern,Approved,Zaman/Riddhish
+FXI307,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,05-05-2017,05-05-2017,10,6,15-03-2017,I was sick on friday so i was not come to the office on friday,Forex Intern,Approved,Zaman/Riddhish
+FXI307,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,16-05-2017,16-05-2017,10,6,15-03-2017,I was not in the town because of death of my uncle.,Forex Intern,Approved,Zaman/Riddhish
+FXI309,Ahmedabad - COE,Forex Intern,Earned Leave,0.5,23-03-2017,23-03-2017,12.5,9,15-03-2017,I was go at  passport Office for my passport work,Forex Intern,Approved,Zaman/Riddhish
+FXI309,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,28-03-2017,28-03-2017,12.5,9,15-03-2017,I was go at police station for passport verification,Forex Intern,Approved,Zaman/Riddhish
+FXI309,Ahmedabad - COE,Forex Intern,Leave Without Pay,4,10-04-2017,13-04-2017,12.5,9,15-03-2017,Mid-Sem Exam In college ,Forex Intern,Approved,Kain Tain
+FXI309,Ahmedabad - COE,Forex Intern,Leave Without Pay,3,08-05-2017,10-05-2017,12.5,9,15-03-2017,GTU External University Exam,Forex Intern,Approved,Kain Tain
+FXI309,Ahmedabad - COE,Forex Intern,Earned Leave,0.5,19-05-2017,19-05-2017,12.5,9,15-03-2017,GTU External Viva (GSCR ),Forex Intern,Approved,Zaman/Riddhish
+FXI309,Ahmedabad - COE,Forex Intern,Leave Without Pay,0.5,19-05-2017,19-05-2017,12.5,9,15-03-2017,GTU EXTERNAL VIVA (GCSR),Forex Intern,Approved,Zaman/Riddhish
+FXI309,Ahmedabad - COE,Forex Intern,Earned Leave,0.5,23-05-2017,23-05-2017,12.5,9,15-03-2017,GTU EXTERNAL VIVA (CP),Forex Intern,Approved,Zaman/Riddhish
+FXI309,Ahmedabad - COE,Forex Intern,Leave Without Pay,0.5,23-05-2017,23-05-2017,12.5,9,15-03-2017,GTU EXTERNAL VIVA (CP),Forex Intern,Approved,Zaman/Riddhish
+FXI309,Ahmedabad - COE,Forex Intern,Leave Without Pay,2,25-05-2017,26-05-2017,12.5,9,15-03-2017,My father was admitted in Hospital so i will go there ,Forex Intern,Approved,Zaman/Riddhish
+FXI310,Ahmedabad - COE,Forex Intern,Leave Without Pay,0.5,27-03-2017,27-03-2017,16.5,10,15-03-2017,project presentation,Forex Intern,Approved,Zaman/Riddhish
+FXI310,Ahmedabad - COE,Forex Intern,Leave Without Pay,5,03-04-2017,07-04-2017,16.5,10,15-03-2017,exam,Forex Intern,Approved,Kain Tain
+FXI310,Ahmedabad - COE,Forex Intern,Earned Leave,1,12-04-2017,12-04-2017,16.5,10,15-03-2017,exam,Forex Intern,Approved,Zaman/Riddhish
+FXI310,Ahmedabad - COE,Forex Intern,Leave Without Pay,0.5,13-04-2017,13-04-2017,16.5,10,15-03-2017,exam,Forex Intern,Approved,Zaman/Riddhish
+FXI310,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,17-04-2017,17-04-2017,16.5,10,15-03-2017,exam,Forex Intern,Approved,Zaman/Riddhish
+FXI310,Ahmedabad - COE,Forex Intern,Leave Without Pay,0.5,18-04-2017,18-04-2017,16.5,10,15-03-2017,exam,Forex Intern,Approved,Zaman/Riddhish
+FXI310,Ahmedabad - COE,Forex Intern,Leave Without Pay,3,26-04-2017,28-04-2017,16.5,10,15-03-2017,exam,Forex Intern,Approved,Kain Tain
+FXI310,Ahmedabad - COE,Forex Intern,Leave Without Pay,2,01-05-2017,02-05-2017,16.5,10,15-03-2017,exam,Forex Intern,Approved,Zaman/Riddhish
+FXI310,Ahmedabad - COE,Forex Intern,Leave Without Pay,2,15-05-2017,16-05-2017,16.5,10,15-03-2017,external viva,Forex Intern,Approved,Zaman/Riddhish
+FXI310,Ahmedabad - COE,Forex Intern,Earned Leave,1,17-05-2017,17-05-2017,16.5,10,15-03-2017,external viva,Forex Intern,Approved,Zaman/Riddhish
+FXI311,Ahmedabad - COE,Forex Intern,Leave Without Pay,4,10-04-2017,13-04-2017,19.5,11,15-03-2017,MID SEMESTER EXAMINATION 2,Forex Intern,Approved,Kain Tain
+FXI311,Ahmedabad - COE,Forex Intern,Leave Without Pay,5,10-04-2017,14-04-2017,19.5,11,15-03-2017,MID SEMESTER EXAMINATION-2,Forex Intern,Rejected,Kain Tain
+FXI311,Ahmedabad - COE,Forex Intern,Earned Leave,0.5,17-04-2017,17-04-2017,19.5,11,15-03-2017,project presentation,Forex Intern,Approved,Zaman/Riddhish
+FXI311,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,27-04-2017,27-04-2017,19.5,11,15-03-2017,EXAM,Forex Intern,Approved,Zaman/Riddhish
+FXI311,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,28-04-2017,28-04-2017,19.5,11,15-03-2017,Exam,Forex Intern,Approved,Zaman/Riddhish
+FXI311,Ahmedabad - COE,Forex Intern,Earned Leave,1,02-05-2017,02-05-2017,19.5,11,15-03-2017,gtu exam,Forex Intern,Approved,Zaman/Riddhish
+FXI311,Ahmedabad - COE,Forex Intern,Leave Without Pay,3,03-05-2017,05-05-2017,19.5,11,15-03-2017,EXAM,Forex Intern,Approved,Kain Tain
+FXI311,Ahmedabad - COE,Forex Intern,Earned Leave,1,11-05-2017,11-05-2017,19.5,11,15-03-2017,project presentation and submission,Forex Intern,Approved,Zaman/Riddhish
+FXI311,Ahmedabad - COE,Forex Intern,Earned Leave,1,15-05-2017,15-05-2017,19.5,11,15-03-2017,EXTERNAL VIVA,Forex Intern,Approved,Zaman/Riddhish
+FXI311,Ahmedabad - COE,Forex Intern,Earned Leave,1,16-05-2017,16-05-2017,19.5,11,15-03-2017,EXTERNAL VIVA,Forex Intern,Approved,Zaman/Riddhish
+FXI311,Ahmedabad - COE,Forex Intern,Earned Leave,1,19-05-2017,19-05-2017,19.5,11,15-03-2017,EXTERNAL VIVA,Forex Intern,Approved,Zaman/Riddhish
+FXI313,Ahmedabad - COE,Forex Intern,Earned Leave,0.5,17-04-2017,17-04-2017,2.5,4,15-03-2017,out of town,Forex Intern,Approved,Zaman/Riddhish
+FXI313,Ahmedabad - COE,Forex Intern,Earned Leave,0.5,05-05-2017,05-05-2017,2.5,4,15-03-2017,personal work,Forex Intern,Approved,Zaman/Riddhish
+FXI313,Ahmedabad - COE,Forex Intern,Earned Leave,0.5,08-05-2017,08-05-2017,2.5,4,15-03-2017,personal work,Forex Intern,Approved,Zaman/Riddhish
+FXI313,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,12-05-2017,12-05-2017,2.5,4,15-03-2017,RTO related work,Forex Intern,Approved,Zaman/Riddhish
+FXI314,Ahmedabad - COE,Forex Intern,Earned Leave,1,04-04-2017,04-04-2017,8.5,6,15-03-2017,due to fever ,Forex Intern,Approved,Zaman/Riddhish
+FXI314,Ahmedabad - COE,Forex Intern,Leave Without Pay,2,27-04-2017,28-04-2017,8.5,6,15-03-2017,Due to final exam,Forex Intern,Approved,Zaman/Riddhish
+FXI314,Ahmedabad - COE,Forex Intern,Leave Without Pay,4,02-05-2017,05-05-2017,8.5,6,15-03-2017,"due to final exam 2,4,5",Forex Intern,Approved,Kain Tain
+FXI314,Ahmedabad - COE,Forex Intern,Earned Leave,0.5,15-05-2017,15-05-2017,8.5,6,15-03-2017,due to external viva ,Forex Intern,Approved,Zaman/Riddhish
+FXI314,Ahmedabad - COE,Forex Intern,Earned Leave,0.5,17-05-2017,17-05-2017,8.5,6,15-03-2017,due to external viva,Forex Intern,Approved,Zaman/Riddhish
+FXI314,Ahmedabad - COE,Forex Intern,Earned Leave,0.5,18-05-2017,18-05-2017,8.5,6,15-03-2017,due to external viva,Forex Intern,Approved,Zaman/Riddhish
+FXI315,Ahmedabad - COE,Forex Intern,Leave Without Pay,4,02-05-2017,05-05-2017,4,1,15-03-2017,Final Exam,Forex Intern,Approved,Kain Tain
+FXI316,Ahmedabad - COE,Forex Intern,Leave Without Pay,2,23-03-2017,24-03-2017,9,4,15-03-2017,medical checkup,Forex Intern,Approved,Zaman/Riddhish
+FXI316,Ahmedabad - COE,Forex Intern,Leave Without Pay,2,30-03-2017,31-03-2017,9,4,15-03-2017,Operation of   Fistula Disease,Forex Intern,Approved,Zaman/Riddhish
+FXI316,Ahmedabad - COE,Forex Intern,Earned Leave,1,03-04-2017,03-04-2017,9,4,15-03-2017,medical leave,Forex Intern,Approved,Zaman/Riddhish
+FXI316,Ahmedabad - COE,Forex Intern,Leave Without Pay,4,04-04-2017,07-04-2017,9,4,15-03-2017,medical leave,Forex Intern,Approved,Kain Tain
+FXI317,Ahmedabad - COE,Forex Intern,Earned Leave,0.5,10-05-2017,10-05-2017,1.5,2,15-03-2017,sick leave,Forex Intern,Approved,Zaman/Riddhish
+FXI317,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,23-05-2017,23-05-2017,1.5,2,15-03-2017,Fever because of rain while returning from the office,Forex Intern,Approved,Zaman/Riddhish
+FXI318,Ahmedabad - COE,Forex Intern,Earned Leave,1,27-03-2017,27-03-2017,6.5,7,15-03-2017,project fair in the collage.,Forex Intern,Approved,Zaman/Riddhish
+FXI318,Ahmedabad - COE,Forex Intern,Leave Without Pay,2,06-04-2017,07-04-2017,6.5,7,15-03-2017,mid term exam,Forex Intern,Approved,Zaman/Riddhish
+FXI318,Ahmedabad - COE,Forex Intern,Leave Without Pay,0.5,13-04-2017,13-04-2017,6.5,7,15-03-2017,Mid-term exam ,Forex Intern,Approved,Zaman/Riddhish
+FXI318,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,14-04-2017,14-04-2017,6.5,7,15-03-2017,mid- term exam,Forex Intern,Rejected,Zaman/Riddhish
+FXI318,Ahmedabad - COE,Forex Intern,Earned Leave,1,04-05-2017,04-05-2017,6.5,7,15-03-2017,GTU external exam.,Forex Intern,Approved,Zaman/Riddhish
+FXI318,Ahmedabad - COE,Forex Intern,Leave Without Pay,0.5,15-05-2017,15-05-2017,6.5,7,15-03-2017,external viva ,Forex Intern,Approved,Zaman/Riddhish
+FXI318,Ahmedabad - COE,Forex Intern,Earned Leave,0.5,18-05-2017,18-05-2017,6.5,7,15-03-2017,external viva,Forex Intern,Approved,Zaman/Riddhish
+FXI319,Ahmedabad - COE,Forex Intern,Leave Without Pay,4,10-04-2017,13-04-2017,21,6,15-03-2017,I have a Re-mid examination from 10th to 13th April.,Forex Intern,Approved,Kain Tain
+FXI319,Ahmedabad - COE,Forex Intern,Leave Without Pay,5,17-04-2017,21-04-2017,21,6,15-03-2017,I have a Mid examination from 17th to 20th April and at 21st project presentation in my college.,Forex Intern,Approved,Kain Tain
+FXI319,Ahmedabad - COE,Forex Intern,Leave Without Pay,4,25-04-2017,28-04-2017,21,6,15-03-2017,I have a GTU examination from 29th April to 08th May.,Forex Intern,Approved,Kain Tain
+FXI319,Ahmedabad - COE,Forex Intern,Leave Without Pay,5,02-05-2017,08-05-2017,21,6,15-03-2017,I have gtu examination from 29th april to 08th may.,Forex Intern,Approved,Kain Tain
+FXI319,Ahmedabad - COE,Forex Intern,Leave Without Pay,0.5,16-05-2017,16-05-2017,21,6,15-03-2017,GTU EXTERNAL VIVA,Forex Intern,Approved,Zaman/Riddhish
+FXI319,Ahmedabad - COE,Forex Intern,Leave Without Pay,2.5,17-05-2017,19-05-2017,21,6,15-03-2017,gtu external viva,Forex Intern,Approved,Kain Tain
+FXI320,Ahmedabad - COE,Forex Intern,Leave Without Pay,5,24-04-2017,28-04-2017,5,1,15-03-2017,"Because of  to attend my younger sister%u2019s marriage ceremony in Dayapar, Kutch.",Forex Intern,Approved,Kain Tain
+FXI321,Ahmedabad - COE,Forex Intern,Leave Without Pay,3.5,20-03-2017,23-03-2017,11.5,8,15-03-2017,mid sem exam,Forex Intern,Approved,Kain Tain
+FXI321,Ahmedabad - COE,Forex Intern,Earned Leave,0.5,06-04-2017,06-04-2017,11.5,8,15-03-2017,submission ,Forex Intern,Approved,Zaman/Riddhish
+FXI321,Ahmedabad - COE,Forex Intern,Leave Without Pay,4,24-04-2017,27-04-2017,11.5,8,15-03-2017,End sem exam,Forex Intern,Approved,Kain Tain
+FXI321,Ahmedabad - COE,Forex Intern,Leave Without Pay,0.5,05-05-2017,05-05-2017,11.5,8,15-03-2017,Remedial exam,Forex Intern,Approved,Zaman/Riddhish
+FXI321,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,12-05-2017,12-05-2017,11.5,8,15-03-2017,Family Function,Forex Intern,Approved,Zaman/Riddhish
+FXI321,Ahmedabad - COE,Forex Intern,Leave Without Pay,0.5,16-05-2017,16-05-2017,11.5,8,15-03-2017,For completing legal formalities of new passport,Forex Intern,Approved,Zaman/Riddhish
+FXI321,Ahmedabad - COE,Forex Intern,Leave Without Pay,0.5,18-05-2017,18-05-2017,11.5,8,15-03-2017,GTU MBA EXTERNAL VIVA,Forex Intern,Approved,Zaman/Riddhish
+FXI321,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,23-05-2017,23-05-2017,11.5,8,15-03-2017,GTU MBA EXTERNAL VIVA,Forex Intern,Approved,Zaman/Riddhish
+FXI322,Ahmedabad - COE,Forex Intern,Earned Leave,0.5,21-04-2017,21-04-2017,8.5,8,15-03-2017,FINAL INTERNAL PROJECT REPORT  SUBMISSION AS WELL AS LAST DAY OF SIGNING ON REPORT,Forex Intern,Approved,Zaman/Riddhish
+FXI322,Ahmedabad - COE,Forex Intern,Earned Leave,0.5,24-04-2017,24-04-2017,8.5,8,15-03-2017,due to collecting of exam admit card as well as project report issues in submission,Forex Intern,Approved,Zaman/Riddhish
+FXI322,Ahmedabad - COE,Forex Intern,Leave Without Pay,4,02-05-2017,05-05-2017,8.5,8,15-03-2017,GTU FINAL EXAMS FOR BE SEM 8,Forex Intern,Approved,Kain Tain
+FXI322,Ahmedabad - COE,Forex Intern,Leave Without Pay,0.5,09-05-2017,09-05-2017,8.5,8,15-03-2017,exams,Forex Intern,Approved,Zaman/Riddhish
+FXI322,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,11-05-2017,11-05-2017,8.5,8,15-03-2017,GTU REMEDIAL EXAM,Forex Intern,Approved,Zaman/Riddhish
+FXI322,Ahmedabad - COE,Forex Intern,Leave Without Pay,0.5,15-05-2017,15-05-2017,8.5,8,15-03-2017,GTU final external viva ,Forex Intern,Approved,Zaman/Riddhish
+FXI322,Ahmedabad - COE,Forex Intern,Leave Without Pay,0.5,18-05-2017,18-05-2017,8.5,8,15-03-2017,Gtu final external viva,Forex Intern,Approved,Zaman/Riddhish
+FXI322,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,18-05-2017,18-05-2017,8.5,8,15-03-2017,Gtu external project viva,Forex Intern,Approved,Zaman/Riddhish
+FXI323,Ahmedabad - COE,Forex Intern,Leave Without Pay,4,10-04-2017,13-04-2017,7.5,6,15-03-2017,college mid semester exam ,Forex Intern,Approved,Kain Tain
+FXI323,Ahmedabad - COE,Forex Intern,Earned Leave,1,10-05-2017,10-05-2017,7.5,6,15-03-2017,backlog gtu exam ,Forex Intern,Approved,Zaman/Riddhish
+FXI323,Ahmedabad - COE,Forex Intern,Leave Without Pay,0.5,19-05-2017,19-05-2017,7.5,6,15-03-2017,final project(gcsr) submission gtu ,Forex Intern,Approved,Zaman/Riddhish
+FXI323,Ahmedabad - COE,Forex Intern,Leave Without Pay,0.5,19-05-2017,19-05-2017,7.5,6,15-03-2017,final project submission (gcsr) gtu,Forex Intern,Approved,Zaman/Riddhish
+FXI323,Ahmedabad - COE,Forex Intern,Leave Without Pay,0.5,23-05-2017,23-05-2017,7.5,6,15-03-2017,final project submission (cp) gtu ,Forex Intern,Approved,Zaman/Riddhish
+FXI323,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,23-05-2017,23-05-2017,7.5,6,15-03-2017,Final project submission (cp) gtu ,Forex Intern,Approved,Zaman/Riddhish
+FXI325,Ahmedabad - COE,Forex Intern,Earned Leave,0.5,11-04-2017,11-04-2017,9.5,8,15-03-2017,exam,Forex Intern,Approved,Zaman/Riddhish
+FXI325,Ahmedabad - COE,Forex Intern,Leave Without Pay,3,12-04-2017,14-04-2017,9.5,8,15-03-2017,exams and internal evaluation,Forex Intern,Approved,Kain Tain
+FXI325,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,17-04-2017,17-04-2017,9.5,8,15-03-2017,mid sem exam,Forex Intern,Approved,Zaman/Riddhish
+FXI325,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,19-04-2017,19-04-2017,9.5,8,15-03-2017,mid sem,Forex Intern,Approved,Zaman/Riddhish
+FXI325,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,21-04-2017,21-04-2017,9.5,8,15-03-2017,mid sem exams,Forex Intern,Approved,Zaman/Riddhish
+FXI325,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,24-04-2017,24-04-2017,9.5,8,15-03-2017,Mid Semester exams,Forex Intern,Approved,Zaman/Riddhish
+FXI325,Ahmedabad - COE,Forex Intern,Earned Leave,1,15-05-2017,15-05-2017,9.5,8,15-03-2017,sickness,Forex Intern,Approved,Zaman/Riddhish
+FXI325,Ahmedabad - COE,Forex Intern,Earned Leave,1,22-05-2017,22-05-2017,9.5,8,15-03-2017,GTU GCSR VIVA,Forex Intern,Approved,Zaman/Riddhish
+FXI326,Ahmedabad - COE,Forex Intern,Earned Leave,0.5,11-04-2017,11-04-2017,10.5,9,15-03-2017,exam,Forex Intern,Approved,Zaman/Riddhish
+FXI326,Ahmedabad - COE,Forex Intern,Leave Without Pay,3,12-04-2017,14-04-2017,10.5,9,15-03-2017,exams and internal evaluation,Forex Intern,Approved,Kain Tain
+FXI326,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,17-04-2017,17-04-2017,10.5,9,15-03-2017,mid sem exam,Forex Intern,Approved,Zaman/Riddhish
+FXI326,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,19-04-2017,19-04-2017,10.5,9,15-03-2017,mid sem exam,Forex Intern,Approved,Zaman/Riddhish
+FXI326,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,21-04-2017,21-04-2017,10.5,9,15-03-2017,mid sem exam,Forex Intern,Approved,Zaman/Riddhish
+FXI326,Ahmedabad - COE,Forex Intern,Leave Without Pay,1,24-04-2017,24-04-2017,10.5,9,15-03-2017,mid sem exame ,Forex Intern,Approved,Zaman/Riddhish
+FXI326,Ahmedabad - COE,Forex Intern,Earned Leave,1,08-05-2017,08-05-2017,10.5,9,15-03-2017,sick leave,Forex Intern,Approved,Zaman/Riddhish
+FXI326,Ahmedabad - COE,Forex Intern,Earned Leave,1,09-05-2017,09-05-2017,10.5,9,15-03-2017,exam,Forex Intern,Approved,Zaman/Riddhish
+FXI326,Ahmedabad - COE,Forex Intern,Earned Leave,1,22-05-2017,22-05-2017,10.5,9,15-03-2017,gcsr viva,Forex Intern,Approved,Zaman/Riddhish
