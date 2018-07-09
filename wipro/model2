@@ -11,8 +11,8 @@ data$Gender[data$Gender == "NA"] = "Male"
 
 # imputing missing values using median
 preprocvalues = preProcess(data, method = c("medianImpute", "center", "scale"))
-data_processed = predict(preprocvalues,data)
-summary(data_processed)
+data = predict(preprocvalues,data)
+summary(data)
 
 #defining the training controls for multiple models
 fitcontrol = trainControl(method = "CV", number = 5, savePredictions = 'final', classProbs = T)
@@ -38,3 +38,9 @@ results2 = predict(object = model_tree)
 # we can use the above models to predict Loan_Status for any new data, by 
 # using results = predict(object = model_tree, newdata)
 
+# Let us compare the above two methods
+# Logistic Regression Model
+table(results, data$Loan_Status)
+
+# Decision Tree Model
+table(results2, data$Loan_Status)
