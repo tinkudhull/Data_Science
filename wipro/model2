@@ -1,0 +1,40 @@
+require(xlsx)
+require(caret)
+require(RANN)
+data = read.xlsx("Loan_data.xlsx", sheetIndex = 1)
+str(data)
+sum(is.na(data))
+summary(data)
+str(data)
+levels(data$Gender)
+data$Gender[data$Gender == "NA"] = "Male"
+
+# imputing missing values using median
+preprocvalues = preProcess(data, method = c("medianImpute", "center", "scale"))
+data_processed = predict(preprocvalues,data)
+summary(data_processed)
+
+#defining the training controls for multiple models
+fitcontrol = trainControl(method = "CV", number = 5, savePredictions = 'final', classProbs = T)
+
+#defining the predictors and outcome
+predictors = c("Gender","Married","Dependents","Education","Self_Employed",
+               "ApplicantIncome","CoapplicantIncome","Credit_History", 
+               "LoanAmount","Loan_Amount_Term","Property_Area")
+outcomename = 'Loan_Status'
+
+# training the logistic model
+model_lr = train(data[,predictors], data[,outcomename], method = 'glm',
+                 trControl = fitcontrol, tuneLength = 3)
+# predicting using logistic model 
+results = predict(object = model_lr)
+
+# training the tree model
+model_tree = train(data[,predictors], data[,outcomename], method = 'rpart',
+                 trControl = fitcontrol, tuneLength = 3)
+# predicting using logistic model 
+results2 = predict(object = model_tree)
+
+# we can use the above models to predict Loan_Status for any new data, by 
+# using results = predict(object = model_tree, newdata)
+
