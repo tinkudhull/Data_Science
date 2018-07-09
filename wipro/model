@@ -1,0 +1,6 @@
+data = read.csv("Pima Indians Diabetes Binary Classification dataset.csv")
+colnames(data)
+model = glm(Class.variable..0.or.1.~., family = binomial, data = data)
+summary(model)
+results_probability = predict(model, newdata = data, type = 'response')
+results = ifelse(results_probability > 0.5, 1,0)
